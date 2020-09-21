@@ -1,0 +1,3977 @@
+
+The following have been reloaded with a version change:
+  1) GMP/6.1.2-GCC-6.2.0 => GMP/6.1.1-intel-2017.u2
+  2) Python/2.7.13-GCC-6.2.0 => Python/2.7.11-intel-2017.u2
+  3) SQLite/3.13.0-GCC-6.2.0 => SQLite/3.13.0-intel-2017.u2
+  4) Tcl/8.6.5-GCC-6.2.0 => Tcl/8.6.7-intel-2017.u2
+  5) bzip2/1.0.6-GCC-6.2.0 => bzip2/1.0.6-intel-2017.u2
+  6) libffi/3.2.1-GCC-6.2.0 => libffi/3.2.1-intel-2017.u2
+  7) libreadline/6.3-GCC-6.2.0 => libreadline/6.3-intel-2017.u2
+  8) ncurses/6.0-GCC-6.2.0 => ncurses/6.0-intel-2017.u2
+  9) zlib/1.2.8-GCC-6.2.0 => zlib/1.2.11-intel-2017.u2
+
+
+The following have been reloaded with a version change:
+  1) GMP/6.1.1-intel-2017.u2 => GMP/6.1.2-GCC-6.2.0
+  2) Python/2.7.11-intel-2017.u2 => Python/2.7.13-GCC-6.2.0
+  3) SQLite/3.13.0-intel-2017.u2 => SQLite/3.13.0-GCC-6.2.0
+  4) Tcl/8.6.7-intel-2017.u2 => Tcl/8.6.5-GCC-6.2.0
+  5) bzip2/1.0.6-intel-2017.u2 => bzip2/1.0.6-GCC-6.2.0
+  6) libffi/3.2.1-intel-2017.u2 => libffi/3.2.1-GCC-6.2.0
+  7) libreadline/6.3-intel-2017.u2 => libreadline/6.3-GCC-6.2.0
+  8) ncurses/6.0-intel-2017.u2 => ncurses/6.0-GCC-6.2.0
+  9) zlib/1.2.11-intel-2017.u2 => zlib/1.2.8-GCC-6.2.0
+
+
+The following have been reloaded with a version change:
+  1) Python/2.7.13-GCC-6.2.0 => Python/2.7.13-intel-2017.u2
+  2) SQLite/3.13.0-GCC-6.2.0 => SQLite/3.13.0-intel-2017.u2
+  3) Tcl/8.6.5-GCC-6.2.0 => Tcl/8.6.5-intel-2017.u2
+  4) bzip2/1.0.6-GCC-6.2.0 => bzip2/1.0.6-intel-2017.u2
+  5) libffi/3.2.1-GCC-6.2.0 => libffi/3.2.1-intel-2017.u2
+  6) libreadline/6.3-GCC-6.2.0 => libreadline/6.3-intel-2017.u2
+  7) ncurses/6.0-GCC-6.2.0 => ncurses/6.0-intel-2017.u2
+  8) zlib/1.2.8-GCC-6.2.0 => zlib/1.2.8-intel-2017.u2
+
+
+The following have been reloaded with a version change:
+  1) bzip2/1.0.6-intel-2017.u2 => bzip2/1.0.6-GCC-6.2.0
+  2) ncurses/6.0-intel-2017.u2 => ncurses/6.0-GCC-6.2.0
+  3) zlib/1.2.8-intel-2017.u2 => zlib/1.2.8-GCC-6.2.0
+
+
+The following have been reloaded with a version change:
+  1) FFTW/3.3.7-intel-2017.u2 => FFTW/3.3.7-spartan_gompi-GCC-6.2.0-OpenMPI-3.0.0
+  2) zlib/1.2.8-GCC-6.2.0 => zlib/1.2.11-spartan_gcc-6.2.0
+
+Using TensorFlow backend.
+common snps compendium filtered by FDR already exists at /data/projects/punim0614/andy/circuitSNP/data/validation/rasqual/common_snp_compendium_FDR=10%.csv
+
+common unique snps already exists at /data/projects/punim0614/andy/circuitSNP/data/validation/rasqual/common_snp_unique_FDR=10%.csv
+
+Making snp footprint matrix
+M00001: 62, count of 1's: 62
+M00002: 28, count of 1's: 28
+M00003: 1, count of 1's: 1
+M00006: 1, count of 1's: 1
+M00007: 29, count of 1's: 29
+M00008: 93, count of 1's: 93
+M00014: 21, count of 1's: 21
+M00015: 0, count of 1's: 0
+M00016: 50, count of 1's: 50
+M00017: 132, count of 1's: 132
+M00018: 0, count of 1's: 0
+M00019: 1, count of 1's: 1
+M00021: 0, count of 1's: 0
+M00022: 0, count of 1's: 0
+M00024: 66, count of 1's: 66
+M00025: 11, count of 1's: 11
+M00026: 0, count of 1's: 0
+M00031: 1, count of 1's: 1
+M00032: 194, count of 1's: 194
+M00034: 34, count of 1's: 34
+M00035: 25, count of 1's: 25
+M00036: 38, count of 1's: 38
+M00037: 22, count of 1's: 22
+M00039: 11, count of 1's: 11
+M00040: 5, count of 1's: 5
+M00041: 52, count of 1's: 52
+M00042: 3, count of 1's: 3
+M00043: 8, count of 1's: 8
+M00044: 11, count of 1's: 11
+M00045: 1, count of 1's: 1
+M00046: 16, count of 1's: 16
+M00047: 2, count of 1's: 2
+M00049: 204, count of 1's: 204
+M00050: 29, count of 1's: 29
+M00051: 22, count of 1's: 22
+M00052: 13, count of 1's: 13
+M00054: 6, count of 1's: 6
+M00055: 141, count of 1's: 141
+M00059: 0, count of 1's: 0
+M00060: 4, count of 1's: 4
+M00062: 7, count of 1's: 7
+M00063: 9, count of 1's: 9
+M00064: 28, count of 1's: 28
+M00065: 1, count of 1's: 1
+M00066: 2, count of 1's: 2
+M00067: 43, count of 1's: 43
+M00068: 5, count of 1's: 5
+M00069: 19, count of 1's: 19
+M00070: 5, count of 1's: 5
+M00071: 10, count of 1's: 10
+M00072: 0, count of 1's: 0
+M00073: 0, count of 1's: 0
+M00075: 32, count of 1's: 32
+M00076: 1, count of 1's: 1
+M00077: 3, count of 1's: 3
+M00078: 3, count of 1's: 3
+M00081: 0, count of 1's: 0
+M00082: 0, count of 1's: 0
+M00083: 39, count of 1's: 39
+M00084: 119, count of 1's: 119
+M00086: 0, count of 1's: 0
+M00089: 0, count of 1's: 0
+M00091: 5, count of 1's: 5
+M00093: 3, count of 1's: 3
+M00094: 1, count of 1's: 1
+M00097: 3, count of 1's: 3
+M00098: 1, count of 1's: 1
+M00101: 12, count of 1's: 12
+M00102: 0, count of 1's: 0
+M00104: 9, count of 1's: 9
+M00105: 0, count of 1's: 0
+M00106: 10, count of 1's: 10
+M00107: 17, count of 1's: 17
+M00108: 200, count of 1's: 200
+M00109: 0, count of 1's: 0
+M00111: 42, count of 1's: 42
+M00112: 5, count of 1's: 5
+M00113: 52, count of 1's: 52
+M00114: 105, count of 1's: 105
+M00115: 49, count of 1's: 49
+M00116: 0, count of 1's: 0
+M00117: 1, count of 1's: 1
+M00118: 9, count of 1's: 9
+M00119: 8, count of 1's: 8
+M00121: 17, count of 1's: 17
+M00122: 9, count of 1's: 9
+M00123: 17, count of 1's: 17
+M00124: 0, count of 1's: 0
+M00126: 3, count of 1's: 3
+M00127: 6, count of 1's: 6
+M00128: 0, count of 1's: 0
+M00129: 0, count of 1's: 0
+M00130: 9, count of 1's: 9
+M00131: 0, count of 1's: 0
+M00132: 0, count of 1's: 0
+M00133: 0, count of 1's: 0
+M00134: 4, count of 1's: 4
+M00135: 2, count of 1's: 2
+M00136: 4, count of 1's: 4
+M00138: 0, count of 1's: 0
+M00139: 49, count of 1's: 49
+M00140: 7, count of 1's: 7
+M00141: 3, count of 1's: 3
+M00146: 2, count of 1's: 2
+M00147: 2, count of 1's: 2
+M00150: 1, count of 1's: 1
+M00151: 0, count of 1's: 0
+M00152: 2, count of 1's: 2
+M00154: 27, count of 1's: 27
+M00155: 8, count of 1's: 8
+M00156: 2, count of 1's: 2
+M00157: 0, count of 1's: 0
+M00158: 7, count of 1's: 7
+M00159: 0, count of 1's: 0
+M00160: 1, count of 1's: 1
+M00161: 2, count of 1's: 2
+M00163: 20, count of 1's: 20
+M00165: 0, count of 1's: 0
+M00168: 3, count of 1's: 3
+M00169: 1, count of 1's: 1
+M00171: 10, count of 1's: 10
+M00172: 0, count of 1's: 0
+M00173: 0, count of 1's: 0
+M00174: 18, count of 1's: 18
+M00175: 35, count of 1's: 35
+M00176: 2, count of 1's: 2
+M00178: 56, count of 1's: 56
+M00179: 18, count of 1's: 18
+M00182: 37, count of 1's: 37
+M00184: 1, count of 1's: 1
+M00185: 1, count of 1's: 1
+M00186: 5, count of 1's: 5
+M00187: 35, count of 1's: 35
+M00188: 5, count of 1's: 5
+M00190: 0, count of 1's: 0
+M00191: 6, count of 1's: 6
+M00192: 3, count of 1's: 3
+M00193: 6, count of 1's: 6
+M00194: 22, count of 1's: 22
+M00195: 2, count of 1's: 2
+M00196: 66, count of 1's: 66
+M00197: 9, count of 1's: 9
+M00198: 8, count of 1's: 8
+M00199: 20, count of 1's: 20
+M00201: 0, count of 1's: 0
+M00203: 0, count of 1's: 0
+M00204: 9, count of 1's: 9
+M00205: 3, count of 1's: 3
+M00206: 1, count of 1's: 1
+M00208: 19, count of 1's: 19
+M00209: 1, count of 1's: 1
+M00210: 10, count of 1's: 10
+M00211: 8, count of 1's: 8
+M00213: 0, count of 1's: 0
+M00215: 5, count of 1's: 5
+M00217: 27, count of 1's: 27
+M00218: 0, count of 1's: 0
+M00220: 11, count of 1's: 11
+M00221: 7, count of 1's: 7
+M00222: 1, count of 1's: 1
+M00223: 27, count of 1's: 27
+M00225: 9, count of 1's: 9
+M00226: 0, count of 1's: 0
+M00227: 55, count of 1's: 55
+M00228: 0, count of 1's: 0
+M00229: 0, count of 1's: 0
+M00230: 2, count of 1's: 2
+M00232: 0, count of 1's: 0
+M00233: 7, count of 1's: 7
+M00235: 129, count of 1's: 129
+M00236: 100, count of 1's: 100
+M00237: 116, count of 1's: 116
+M00238: 9, count of 1's: 9
+M00239: 3, count of 1's: 3
+M00241: 4, count of 1's: 4
+M00242: 1, count of 1's: 1
+M00243: 115, count of 1's: 115
+M00244: 247, count of 1's: 247
+M00245: 50, count of 1's: 50
+M00246: 79, count of 1's: 79
+M00248: 3, count of 1's: 3
+M00250: 0, count of 1's: 0
+M00251: 26, count of 1's: 26
+M00252: 36, count of 1's: 36
+M00253: 6, count of 1's: 6
+M00254: 4, count of 1's: 4
+M00255: 78, count of 1's: 78
+M00256: 9, count of 1's: 9
+M00257: 159, count of 1's: 159
+M00258: 10, count of 1's: 10
+M00260: 0, count of 1's: 0
+M00261: 45, count of 1's: 45
+M00262: 28, count of 1's: 28
+M00263: 136, count of 1's: 136
+M00264: 13, count of 1's: 13
+M00266: 1, count of 1's: 1
+M00270: 59, count of 1's: 59
+M00272: 0, count of 1's: 0
+M00276: 2, count of 1's: 2
+M00277: 15, count of 1's: 15
+M00279: 18, count of 1's: 18
+M00280: 8, count of 1's: 8
+M00281: 14, count of 1's: 14
+M00284: 11, count of 1's: 11
+M00285: 1, count of 1's: 1
+M00287: 8, count of 1's: 8
+M00288: 11, count of 1's: 11
+M00291: 1, count of 1's: 1
+M00292: 2, count of 1's: 2
+M00294: 0, count of 1's: 0
+M00303: 10, count of 1's: 10
+M00304: 21, count of 1's: 21
+M00305: 45, count of 1's: 45
+M00306: 21, count of 1's: 21
+M00307: 91, count of 1's: 91
+M00309: 7, count of 1's: 7
+M00310: 0, count of 1's: 0
+M00313: 25, count of 1's: 25
+M00314: 7, count of 1's: 7
+M00315: 2, count of 1's: 2
+M00318: 1, count of 1's: 1
+M00319: 3, count of 1's: 3
+M00320: 18, count of 1's: 18
+M00321: 15, count of 1's: 15
+M00322: 74, count of 1's: 74
+M00323: 11, count of 1's: 11
+M00325: 10, count of 1's: 10
+M00327: 23, count of 1's: 23
+M00328: 4, count of 1's: 4
+M00332: 38, count of 1's: 38
+M00333: 78, count of 1's: 78
+M00334: 0, count of 1's: 0
+M00337: 6, count of 1's: 6
+M00338: 42, count of 1's: 42
+M00339: 31, count of 1's: 31
+M00340: 8, count of 1's: 8
+M00342: 7, count of 1's: 7
+M00343: 0, count of 1's: 0
+M00344: 3, count of 1's: 3
+M00345: 28, count of 1's: 28
+M00347: 0, count of 1's: 0
+M00348: 3, count of 1's: 3
+M00349: 3, count of 1's: 3
+M00350: 1, count of 1's: 1
+M00352: 2, count of 1's: 2
+M00353: 2, count of 1's: 2
+M00355: 10, count of 1's: 10
+M00356: 7, count of 1's: 7
+M00357: 24, count of 1's: 24
+M00358: 11, count of 1's: 11
+M00359: 108, count of 1's: 108
+M00361: 12, count of 1's: 12
+M00362: 1, count of 1's: 1
+M00366: 27, count of 1's: 27
+M00367: 29, count of 1's: 29
+M00368: 5, count of 1's: 5
+M00369: 23, count of 1's: 23
+M00370: 4, count of 1's: 4
+M00371: 4, count of 1's: 4
+M00372: 13, count of 1's: 13
+M00373: 252, count of 1's: 252
+M00375: 29, count of 1's: 29
+M00376: 12, count of 1's: 12
+M00377: 0, count of 1's: 0
+M00378: 7, count of 1's: 7
+M00388: 11, count of 1's: 11
+M00391: 91, count of 1's: 91
+M00392: 0, count of 1's: 0
+M00393: 1, count of 1's: 1
+M00394: 3, count of 1's: 3
+M00396: 17, count of 1's: 17
+M00398: 6, count of 1's: 6
+M00399: 73, count of 1's: 73
+M00400: 217, count of 1's: 217
+M00403: 1, count of 1's: 1
+M00404: 0, count of 1's: 0
+M00405: 3, count of 1's: 3
+M00406: 1, count of 1's: 1
+M00407: 1, count of 1's: 1
+M00408: 0, count of 1's: 0
+M00411: 5, count of 1's: 5
+M00412: 4, count of 1's: 4
+M00414: 5, count of 1's: 5
+M00415: 1, count of 1's: 1
+M00418: 2, count of 1's: 2
+M00419: 1, count of 1's: 1
+M00420: 0, count of 1's: 0
+M00421: 1, count of 1's: 1
+M00422: 10, count of 1's: 10
+M00423: 0, count of 1's: 0
+M00424: 1, count of 1's: 1
+M00425: 72, count of 1's: 72
+M00426: 96, count of 1's: 96
+M00427: 82, count of 1's: 82
+M00428: 142, count of 1's: 142
+M00431: 87, count of 1's: 87
+M00432: 1, count of 1's: 1
+M00433: 42, count of 1's: 42
+M00434: 41, count of 1's: 41
+M00435: 29, count of 1's: 29
+M00436: 0, count of 1's: 0
+M00438: 12, count of 1's: 12
+M00439: 9, count of 1's: 9
+M00440: 62, count of 1's: 62
+M00441: 78, count of 1's: 78
+M00442: 62, count of 1's: 62
+M00443: 6, count of 1's: 6
+M00444: 113, count of 1's: 113
+M00446: 4, count of 1's: 4
+M00447: 1, count of 1's: 1
+M00448: 4, count of 1's: 4
+M00449: 1, count of 1's: 1
+M00450: 4, count of 1's: 4
+M00451: 9, count of 1's: 9
+M00453: 12, count of 1's: 12
+M00456: 11, count of 1's: 11
+M00457: 0, count of 1's: 0
+M00459: 2, count of 1's: 2
+M00461: 0, count of 1's: 0
+M00462: 1, count of 1's: 1
+M00464: 2, count of 1's: 2
+M00465: 0, count of 1's: 0
+M00466: 64, count of 1's: 64
+M00467: 5, count of 1's: 5
+M00468: 11, count of 1's: 11
+M00469: 27, count of 1's: 27
+M00470: 22, count of 1's: 22
+M00471: 3, count of 1's: 3
+M00473: 3, count of 1's: 3
+M00474: 1, count of 1's: 1
+M00476: 0, count of 1's: 0
+M00477: 0, count of 1's: 0
+M00479: 14, count of 1's: 14
+M00481: 3, count of 1's: 3
+M00483: 8, count of 1's: 8
+M00484: 5, count of 1's: 5
+M00486: 4, count of 1's: 4
+M00487: 1, count of 1's: 1
+M00488: 2, count of 1's: 2
+M00489: 1, count of 1's: 1
+M00490: 27, count of 1's: 27
+M00491: 402, count of 1's: 402
+M00492: 44, count of 1's: 44
+M00494: 2, count of 1's: 2
+M00495: 18, count of 1's: 18
+M00496: 26, count of 1's: 26
+M00497: 16, count of 1's: 16
+M00499: 6, count of 1's: 6
+M00500: 39, count of 1's: 39
+M00502: 0, count of 1's: 0
+M00510: 2, count of 1's: 2
+M00511: 7, count of 1's: 7
+M00512: 5, count of 1's: 5
+M00513: 35, count of 1's: 35
+M00514: 23, count of 1's: 23
+M00515: 2, count of 1's: 2
+M00516: 143, count of 1's: 143
+M00517: 41, count of 1's: 41
+M00518: 11, count of 1's: 11
+M00526: 6, count of 1's: 6
+M00528: 8, count of 1's: 8
+M00532: 0, count of 1's: 0
+M00539: 18, count of 1's: 18
+M00615: 194, count of 1's: 194
+M00616: 3, count of 1's: 3
+M00621: 1, count of 1's: 1
+M00624: 23, count of 1's: 23
+M00626: 4, count of 1's: 4
+M00629: 4, count of 1's: 4
+M00630: 5, count of 1's: 5
+M00631: 12, count of 1's: 12
+M00638: 5, count of 1's: 5
+M00640: 6, count of 1's: 6
+M00641: 3, count of 1's: 3
+M00644: 121, count of 1's: 121
+M00646: 26, count of 1's: 26
+M00647: 2, count of 1's: 2
+M00648: 17, count of 1's: 17
+M00649: 114, count of 1's: 114
+M00650: 26, count of 1's: 26
+M00651: 0, count of 1's: 0
+M00652: 29, count of 1's: 29
+M00654: 230, count of 1's: 230
+M00657: 3, count of 1's: 3
+M00658: 89, count of 1's: 89
+M00660: 41, count of 1's: 41
+M00664: 35, count of 1's: 35
+M00665: 13, count of 1's: 13
+M00666: 31, count of 1's: 31
+M00671: 2, count of 1's: 2
+M00678: 7, count of 1's: 7
+M00679: 12, count of 1's: 12
+M00684: 1, count of 1's: 1
+M00687: 7, count of 1's: 7
+M00689: 0, count of 1's: 0
+M00690: 3, count of 1's: 3
+M00691: 52, count of 1's: 52
+M00693: 101, count of 1's: 101
+M00694: 125, count of 1's: 125
+M00696: 18, count of 1's: 18
+M00697: 149, count of 1's: 149
+M00698: 23, count of 1's: 23
+M00699: 8, count of 1's: 8
+M00700: 0, count of 1's: 0
+M00701: 9, count of 1's: 9
+M00703: 36, count of 1's: 36
+M00706: 28, count of 1's: 28
+M00707: 1, count of 1's: 1
+M00711: 7, count of 1's: 7
+M00712: 76, count of 1's: 76
+M00713: 2, count of 1's: 2
+M00717: 1, count of 1's: 1
+M00720: 25, count of 1's: 25
+M00721: 14, count of 1's: 14
+M00722: 74, count of 1's: 74
+M00724: 8, count of 1's: 8
+M00727: 18, count of 1's: 18
+M00728: 0, count of 1's: 0
+M00730: 44, count of 1's: 44
+M00731: 25, count of 1's: 25
+M00732: 0, count of 1's: 0
+M00734: 4, count of 1's: 4
+M00735: 16, count of 1's: 16
+M00736: 50, count of 1's: 50
+M00737: 72, count of 1's: 72
+M00738: 22, count of 1's: 22
+M00739: 48, count of 1's: 48
+M00740: 57, count of 1's: 57
+M00742: 0, count of 1's: 0
+M00743: 43, count of 1's: 43
+M00746: 14, count of 1's: 14
+M00749: 106, count of 1's: 106
+M00752: 178, count of 1's: 178
+M00753: 0, count of 1's: 0
+M00761: 2, count of 1's: 2
+M00762: 7, count of 1's: 7
+M00763: 1, count of 1's: 1
+M00764: 2, count of 1's: 2
+M00765: 1, count of 1's: 1
+M00766: 75, count of 1's: 75
+M00767: 4, count of 1's: 4
+M00770: 0, count of 1's: 0
+M00771: 18, count of 1's: 18
+M00772: 12, count of 1's: 12
+M00773: 4, count of 1's: 4
+M00774: 18, count of 1's: 18
+M00775: 14, count of 1's: 14
+M00776: 13, count of 1's: 13
+M00777: 7, count of 1's: 7
+M00778: 134, count of 1's: 134
+M00788: 14, count of 1's: 14
+M00789: 24, count of 1's: 24
+M00790: 1, count of 1's: 1
+M00791: 2, count of 1's: 2
+M00792: 22, count of 1's: 22
+M00793: 8, count of 1's: 8
+M00794: 12, count of 1's: 12
+M00795: 5, count of 1's: 5
+M00796: 40, count of 1's: 40
+M00797: 173, count of 1's: 173
+M00798: 0, count of 1's: 0
+M00799: 109, count of 1's: 109
+M00800: 3, count of 1's: 3
+M00801: 97, count of 1's: 97
+M00802: 0, count of 1's: 0
+M00804: 3, count of 1's: 3
+M00806: 7, count of 1's: 7
+M00807: 52, count of 1's: 52
+M00808: 0, count of 1's: 0
+M00809: 0, count of 1's: 0
+M00810: 6, count of 1's: 6
+M00819: 0, count of 1's: 0
+M00821: 27, count of 1's: 27
+M00912: 1, count of 1's: 1
+M00913: 2, count of 1's: 2
+M00916: 104, count of 1's: 104
+M00917: 57, count of 1's: 57
+M00918: 49, count of 1's: 49
+M00919: 29, count of 1's: 29
+M00920: 124, count of 1's: 124
+M00921: 14, count of 1's: 14
+M00922: 6, count of 1's: 6
+M00924: 12, count of 1's: 12
+M00925: 12, count of 1's: 12
+M00926: 56, count of 1's: 56
+M00927: 11, count of 1's: 11
+M00929: 10, count of 1's: 10
+M00930: 5, count of 1's: 5
+M00932: 60, count of 1's: 60
+M00933: 33, count of 1's: 33
+M00934: 1, count of 1's: 1
+M00935: 2, count of 1's: 2
+M00936: 19, count of 1's: 19
+M00938: 145, count of 1's: 145
+M00939: 91, count of 1's: 91
+M00940: 89, count of 1's: 89
+M00942: 96, count of 1's: 96
+M00943: 11, count of 1's: 11
+M00944: 92, count of 1's: 92
+M00945: 36, count of 1's: 36
+M00946: 46, count of 1's: 46
+M00948: 0, count of 1's: 0
+M00949: 0, count of 1's: 0
+M00950: 0, count of 1's: 0
+M00951: 11, count of 1's: 11
+M00952: 4, count of 1's: 4
+M00958: 1, count of 1's: 1
+M00960: 0, count of 1's: 0
+M00962: 52, count of 1's: 52
+M00964: 2, count of 1's: 2
+M00965: 26, count of 1's: 26
+M00967: 1, count of 1's: 1
+M00969: 81, count of 1's: 81
+M00971: 95, count of 1's: 95
+M00972: 10, count of 1's: 10
+M00973: 52, count of 1's: 52
+M00974: 8, count of 1's: 8
+M00975: 8, count of 1's: 8
+M00976: 28, count of 1's: 28
+M00977: 22, count of 1's: 22
+M00978: 1, count of 1's: 1
+M00979: 12, count of 1's: 12
+M00980: 4, count of 1's: 4
+M00981: 34, count of 1's: 34
+M00982: 76, count of 1's: 76
+M00983: 10, count of 1's: 10
+M00984: 4, count of 1's: 4
+M00985: 23, count of 1's: 23
+M00986: 401, count of 1's: 401
+M00991: 7, count of 1's: 7
+M00992: 5, count of 1's: 5
+M00993: 8, count of 1's: 8
+M00997: 14, count of 1's: 14
+M00998: 4, count of 1's: 4
+M01002: 197, count of 1's: 197
+M01003: 4, count of 1's: 4
+M01004: 1, count of 1's: 1
+M01005: 0, count of 1's: 0
+M01007: 7, count of 1's: 7
+M01010: 5, count of 1's: 5
+M01011: 0, count of 1's: 0
+M01012: 3, count of 1's: 3
+M01013: 0, count of 1's: 0
+M01014: 5, count of 1's: 5
+M01017: 1, count of 1's: 1
+M01019: 0, count of 1's: 0
+M01020: 0, count of 1's: 0
+M01021: 0, count of 1's: 0
+M01022: 0, count of 1's: 0
+M01023: 0, count of 1's: 0
+M01028: 6, count of 1's: 6
+M01029: 11, count of 1's: 11
+M01030: 10, count of 1's: 10
+M01031: 5, count of 1's: 5
+M01034: 41, count of 1's: 41
+M01035: 8, count of 1's: 8
+M01036: 1, count of 1's: 1
+M01037: 4, count of 1's: 4
+M01042: 2, count of 1's: 2
+M01045: 15, count of 1's: 15
+M01047: 2, count of 1's: 2
+M01048: 29, count of 1's: 29
+M01049: 21, count of 1's: 21
+M01050: 15, count of 1's: 15
+M01054: 9, count of 1's: 9
+M01055: 72, count of 1's: 72
+M01057: 17, count of 1's: 17
+M01058: 1, count of 1's: 1
+M01059: 2, count of 1's: 2
+M01061: 1, count of 1's: 1
+M01062: 0, count of 1's: 0
+M01063: 0, count of 1's: 0
+M01064: 1, count of 1's: 1
+M01065: 91, count of 1's: 91
+M01066: 13, count of 1's: 13
+M01067: 1, count of 1's: 1
+M01068: 67, count of 1's: 67
+M01070: 15, count of 1's: 15
+M01078: 127, count of 1's: 127
+M01080: 0, count of 1's: 0
+M01082: 11, count of 1's: 11
+M01083: 0, count of 1's: 0
+M01092: 0, count of 1's: 0
+M01095: 3, count of 1's: 3
+M01096: 53, count of 1's: 53
+M01098: 1, count of 1's: 1
+M01100: 17, count of 1's: 17
+M01101: 5, count of 1's: 5
+M01103: 0, count of 1's: 0
+M01104: 187, count of 1's: 187
+M01105: 9, count of 1's: 9
+M01107: 1, count of 1's: 1
+M01108: 11, count of 1's: 11
+M01109: 5, count of 1's: 5
+M01111: 20, count of 1's: 20
+M01112: 18, count of 1's: 18
+M01113: 80, count of 1's: 80
+M01114: 78, count of 1's: 78
+M01116: 41, count of 1's: 41
+M01117: 5, count of 1's: 5
+M01118: 91, count of 1's: 91
+M01119: 2, count of 1's: 2
+M01122: 52, count of 1's: 52
+M01124: 0, count of 1's: 0
+M01125: 2, count of 1's: 2
+M01127: 0, count of 1's: 0
+M01128: 0, count of 1's: 0
+M01132: 1, count of 1's: 1
+M01135: 1, count of 1's: 1
+M01138: 1, count of 1's: 1
+M01139: 9, count of 1's: 9
+M01142: 3, count of 1's: 3
+M01145: 15, count of 1's: 15
+M01146: 0, count of 1's: 0
+M01147: 0, count of 1's: 0
+M01148: 0, count of 1's: 0
+M01152: 5, count of 1's: 5
+M01153: 10, count of 1's: 10
+M01154: 34, count of 1's: 34
+M01156: 82, count of 1's: 82
+M01162: 14, count of 1's: 14
+M01163: 137, count of 1's: 137
+M01164: 0, count of 1's: 0
+M01167: 167, count of 1's: 167
+M01169: 26, count of 1's: 26
+M01172: 25, count of 1's: 25
+M01173: 3, count of 1's: 3
+M01175: 82, count of 1's: 82
+M01180: 12, count of 1's: 12
+M01181: 32, count of 1's: 32
+M01182: 110, count of 1's: 110
+M01186: 50, count of 1's: 50
+M01187: 41, count of 1's: 41
+M01189: 0, count of 1's: 0
+M01192: 3, count of 1's: 3
+M01193: 3, count of 1's: 3
+M01194: 0, count of 1's: 0
+M01195: 7, count of 1's: 7
+M01196: 11, count of 1's: 11
+M01197: 5, count of 1's: 5
+M01198: 3, count of 1's: 3
+M01200: 284, count of 1's: 284
+M01201: 2, count of 1's: 2
+M01202: 6, count of 1's: 6
+M01203: 50, count of 1's: 50
+M01204: 30, count of 1's: 30
+M01208: 27, count of 1's: 27
+M01212: 0, count of 1's: 0
+M01214: 14, count of 1's: 14
+M01216: 25, count of 1's: 25
+M01217: 10, count of 1's: 10
+M01219: 279, count of 1's: 279
+M01220: 19, count of 1's: 19
+M01223: 32, count of 1's: 32
+M01231: 15, count of 1's: 15
+M01232: 2, count of 1's: 2
+M01234: 0, count of 1's: 0
+M01235: 1, count of 1's: 1
+M01236: 0, count of 1's: 0
+M01237: 8, count of 1's: 8
+M01239: 24, count of 1's: 24
+M01240: 25, count of 1's: 25
+M01241: 37, count of 1's: 37
+M01242: 23, count of 1's: 23
+M01243: 9, count of 1's: 9
+M01244: 0, count of 1's: 0
+M01245: 4, count of 1's: 4
+M01248: 8, count of 1's: 8
+M01249: 114, count of 1's: 114
+M01251: 10, count of 1's: 10
+M01255: 0, count of 1's: 0
+M01256: 15, count of 1's: 15
+M01257: 4, count of 1's: 4
+M01259: 295, count of 1's: 295
+M01260: 3, count of 1's: 3
+M01262: 0, count of 1's: 0
+M01263: 6, count of 1's: 6
+M01264: 9, count of 1's: 9
+M01265: 9, count of 1's: 9
+M01267: 56, count of 1's: 56
+M01268: 11, count of 1's: 11
+M01269: 40, count of 1's: 40
+M01272: 0, count of 1's: 0
+M01273: 0, count of 1's: 0
+M01282: 42, count of 1's: 42
+M01284: 0, count of 1's: 0
+M01298: 52, count of 1's: 52
+M01299: 23, count of 1's: 23
+M01301: 0, count of 1's: 0
+M01302: 21, count of 1's: 21
+M01303: 191, count of 1's: 191
+M01304: 3, count of 1's: 3
+M01305: 6, count of 1's: 6
+M01306: 12, count of 1's: 12
+M01308: 11, count of 1's: 11
+M01312: 2, count of 1's: 2
+M01313: 2, count of 1's: 2
+M01315: 0, count of 1's: 0
+M01316: 0, count of 1's: 0
+M01317: 0, count of 1's: 0
+M01318: 0, count of 1's: 0
+M01319: 0, count of 1's: 0
+M01320: 0, count of 1's: 0
+M01321: 1, count of 1's: 1
+M01323: 1, count of 1's: 1
+M01325: 1, count of 1's: 1
+M01327: 0, count of 1's: 0
+M01328: 1, count of 1's: 1
+M01332: 0, count of 1's: 0
+M01335: 0, count of 1's: 0
+M01339: 2, count of 1's: 2
+M01340: 0, count of 1's: 0
+M01343: 7, count of 1's: 7
+M01345: 1, count of 1's: 1
+M01346: 12, count of 1's: 12
+M01347: 1, count of 1's: 1
+M01348: 0, count of 1's: 0
+M01350: 0, count of 1's: 0
+M01351: 0, count of 1's: 0
+M01352: 0, count of 1's: 0
+M01353: 0, count of 1's: 0
+M01354: 0, count of 1's: 0
+M01356: 1, count of 1's: 1
+M01358: 1, count of 1's: 1
+M01359: 1, count of 1's: 1
+M01360: 4, count of 1's: 4
+M01361: 0, count of 1's: 0
+M01362: 0, count of 1's: 0
+M01366: 7, count of 1's: 7
+M01367: 0, count of 1's: 0
+M01368: 2, count of 1's: 2
+M01369: 0, count of 1's: 0
+M01370: 1, count of 1's: 1
+M01371: 0, count of 1's: 0
+M01372: 0, count of 1's: 0
+M01374: 1, count of 1's: 1
+M01375: 0, count of 1's: 0
+M01376: 0, count of 1's: 0
+M01377: 0, count of 1's: 0
+M01380: 0, count of 1's: 0
+M01383: 0, count of 1's: 0
+M01384: 0, count of 1's: 0
+M01386: 1, count of 1's: 1
+M01387: 5, count of 1's: 5
+M01391: 2, count of 1's: 2
+M01394: 1, count of 1's: 1
+M01396: 3, count of 1's: 3
+M01398: 1, count of 1's: 1
+M01399: 0, count of 1's: 0
+M01400: 0, count of 1's: 0
+M01402: 1, count of 1's: 1
+M01405: 0, count of 1's: 0
+M01406: 0, count of 1's: 0
+M01407: 3, count of 1's: 3
+M01408: 12, count of 1's: 12
+M01411: 8, count of 1's: 8
+M01412: 3, count of 1's: 3
+M01414: 1, count of 1's: 1
+M01424: 0, count of 1's: 0
+M01427: 1, count of 1's: 1
+M01428: 0, count of 1's: 0
+M01429: 3, count of 1's: 3
+M01431: 0, count of 1's: 0
+M01432: 0, count of 1's: 0
+M01433: 8, count of 1's: 8
+M01436: 5, count of 1's: 5
+M01437: 3, count of 1's: 3
+M01440: 2, count of 1's: 2
+M01443: 0, count of 1's: 0
+M01445: 2, count of 1's: 2
+M01446: 0, count of 1's: 0
+M01447: 0, count of 1's: 0
+M01449: 1, count of 1's: 1
+M01450: 1, count of 1's: 1
+M01451: 0, count of 1's: 0
+M01452: 0, count of 1's: 0
+M01453: 0, count of 1's: 0
+M01454: 0, count of 1's: 0
+M01457: 0, count of 1's: 0
+M01458: 1, count of 1's: 1
+M01459: 1, count of 1's: 1
+M01460: 0, count of 1's: 0
+M01461: 2, count of 1's: 2
+M01462: 2, count of 1's: 2
+M01463: 0, count of 1's: 0
+M01465: 7, count of 1's: 7
+M01466: 8, count of 1's: 8
+M01467: 3, count of 1's: 3
+M01470: 1, count of 1's: 1
+M01471: 0, count of 1's: 0
+M01473: 3, count of 1's: 3
+M01474: 0, count of 1's: 0
+M01477: 0, count of 1's: 0
+M01479: 1, count of 1's: 1
+M01483: 0, count of 1's: 0
+M01484: 4, count of 1's: 4
+M01485: 0, count of 1's: 0
+M01492: 40, count of 1's: 40
+M01494: 101, count of 1's: 101
+M01498: 3, count of 1's: 3
+M01500: 5, count of 1's: 5
+M01503: 101, count of 1's: 101
+M01504: 3, count of 1's: 3
+M01506: 1, count of 1's: 1
+M01508: 2, count of 1's: 2
+M01509: 135, count of 1's: 135
+M01510: 0, count of 1's: 0
+M01511: 49, count of 1's: 49
+M01512: 297, count of 1's: 297
+M01513: 79, count of 1's: 79
+M01515: 2, count of 1's: 2
+M01516: 60, count of 1's: 60
+M01517: 87, count of 1's: 87
+M01519: 28, count of 1's: 28
+M01521: 26, count of 1's: 26
+M01523: 17, count of 1's: 17
+M01525: 204, count of 1's: 204
+M01526: 10, count of 1's: 10
+M01527: 0, count of 1's: 0
+M01528: 1, count of 1's: 1
+M01529: 20, count of 1's: 20
+M01530: 100, count of 1's: 100
+M01532: 4, count of 1's: 4
+M01533: 1, count of 1's: 1
+M01534: 2, count of 1's: 2
+M01536: 16, count of 1's: 16
+M01537: 76, count of 1's: 76
+M01538: 69, count of 1's: 69
+M01539: 3, count of 1's: 3
+M01540: 9, count of 1's: 9
+M01541: 100, count of 1's: 100
+M01542: 107, count of 1's: 107
+M01544: 195, count of 1's: 195
+M01548: 18, count of 1's: 18
+M01549: 1, count of 1's: 1
+M01550: 193, count of 1's: 193
+M01551: 15, count of 1's: 15
+M01552: 0, count of 1's: 0
+M01554: 18, count of 1's: 18
+M01555: 1, count of 1's: 1
+M01556: 19, count of 1's: 19
+M01557: 5, count of 1's: 5
+M01558: 54, count of 1's: 54
+M01559: 72, count of 1's: 72
+M01560: 79, count of 1's: 79
+M01561: 16, count of 1's: 16
+M01563: 31, count of 1's: 31
+M01564: 37, count of 1's: 37
+M01565: 11, count of 1's: 11
+M01567: 13, count of 1's: 13
+M01568: 0, count of 1's: 0
+M01569: 0, count of 1's: 0
+M01571: 36, count of 1's: 36
+M01572: 53, count of 1's: 53
+M01573: 40, count of 1's: 40
+M01574: 0, count of 1's: 0
+M01576: 25, count of 1's: 25
+M01577: 70, count of 1's: 70
+M01578: 0, count of 1's: 0
+M01581: 30, count of 1's: 30
+M01582: 1, count of 1's: 1
+M01583: 15, count of 1's: 15
+M01584: 26, count of 1's: 26
+M01585: 21, count of 1's: 21
+M01586: 24, count of 1's: 24
+M01587: 4, count of 1's: 4
+M01589: 21, count of 1's: 21
+M01590: 1, count of 1's: 1
+M01591: 3, count of 1's: 3
+M01592: 18, count of 1's: 18
+M01593: 8, count of 1's: 8
+M01595: 11, count of 1's: 11
+M01597: 31, count of 1's: 31
+M01598: 1, count of 1's: 1
+M01607: 41, count of 1's: 41
+M01608: 35, count of 1's: 35
+M01609: 16, count of 1's: 16
+M01610: 98, count of 1's: 98
+M01611: 170, count of 1's: 170
+M01612: 25, count of 1's: 25
+M01613: 98, count of 1's: 98
+M01615: 6, count of 1's: 6
+M01617: 27, count of 1's: 27
+M01619: 27, count of 1's: 27
+M01620: 69, count of 1's: 69
+M01621: 19, count of 1's: 19
+M01625: 58, count of 1's: 58
+M01626: 12, count of 1's: 12
+M01628: 13, count of 1's: 13
+M01629: 184, count of 1's: 184
+M01634: 97, count of 1's: 97
+M01635: 134, count of 1's: 134
+M01636: 97, count of 1's: 97
+M01637: 0, count of 1's: 0
+M01639: 232, count of 1's: 232
+M01640: 3, count of 1's: 3
+M01641: 53, count of 1's: 53
+M01642: 30, count of 1's: 30
+M01643: 62, count of 1's: 62
+M01644: 4, count of 1's: 4
+M01646: 4, count of 1's: 4
+M01648: 39, count of 1's: 39
+M01649: 132, count of 1's: 132
+M01650: 3, count of 1's: 3
+M01651: 5, count of 1's: 5
+M01652: 16, count of 1's: 16
+M01653: 7, count of 1's: 7
+M01655: 22, count of 1's: 22
+M01656: 6, count of 1's: 6
+M01657: 23, count of 1's: 23
+M01658: 124, count of 1's: 124
+M01660: 241, count of 1's: 241
+M01662: 37, count of 1's: 37
+M01663: 121, count of 1's: 121
+M01666: 2, count of 1's: 2
+M01670: 1, count of 1's: 1
+M01672: 5, count of 1's: 5
+M01673: 101, count of 1's: 101
+M01675: 9, count of 1's: 9
+M01678: 17, count of 1's: 17
+M01681: 27, count of 1's: 27
+M01682: 6, count of 1's: 6
+M01683: 82, count of 1's: 82
+M01686: 9, count of 1's: 9
+M01687: 17, count of 1's: 17
+M01688: 36, count of 1's: 36
+M01691: 1, count of 1's: 1
+M01692: 3, count of 1's: 3
+M01695: 1, count of 1's: 1
+M01696: 2, count of 1's: 2
+M01699: 123, count of 1's: 123
+M01700: 317, count of 1's: 317
+M01701: 76, count of 1's: 76
+M01702: 0, count of 1's: 0
+M01703: 11, count of 1's: 11
+M01704: 5, count of 1's: 5
+M01705: 3, count of 1's: 3
+M01707: 19, count of 1's: 19
+M01708: 18, count of 1's: 18
+M01709: 77, count of 1's: 77
+M01711: 5, count of 1's: 5
+M01713: 6, count of 1's: 6
+M01714: 47, count of 1's: 47
+M01715: 1, count of 1's: 1
+M01716: 7, count of 1's: 7
+M01718: 27, count of 1's: 27
+M01721: 12, count of 1's: 12
+M01723: 0, count of 1's: 0
+M01724: 7, count of 1's: 7
+M01725: 0, count of 1's: 0
+M01728: 3, count of 1's: 3
+M01729: 1, count of 1's: 1
+M01731: 3, count of 1's: 3
+M01732: 4, count of 1's: 4
+M01733: 48, count of 1's: 48
+M01734: 13, count of 1's: 13
+M01735: 2, count of 1's: 2
+M01736: 103, count of 1's: 103
+M01737: 1, count of 1's: 1
+M01740: 3, count of 1's: 3
+M01742: 26, count of 1's: 26
+M01744: 2, count of 1's: 2
+M01745: 2, count of 1's: 2
+M01746: 0, count of 1's: 0
+M01747: 2, count of 1's: 2
+M01748: 9, count of 1's: 9
+M01749: 1, count of 1's: 1
+M01752: 17, count of 1's: 17
+M01759: 39, count of 1's: 39
+M01761: 0, count of 1's: 0
+M01768: 5, count of 1's: 5
+M01770: 80, count of 1's: 80
+M01772: 4, count of 1's: 4
+M01774: 2, count of 1's: 2
+M01778: 25, count of 1's: 25
+M01779: 8, count of 1's: 8
+M01782: 3, count of 1's: 3
+M01784: 9, count of 1's: 9
+M01785: 4, count of 1's: 4
+M01786: 3, count of 1's: 3
+M01788: 0, count of 1's: 0
+M01789: 0, count of 1's: 0
+M01790: 8, count of 1's: 8
+M01792: 12, count of 1's: 12
+M01793: 30, count of 1's: 30
+M01795: 4, count of 1's: 4
+M01796: 3, count of 1's: 3
+M01797: 4, count of 1's: 4
+M01799: 5, count of 1's: 5
+M01801: 2, count of 1's: 2
+M01802: 39, count of 1's: 39
+M01803: 39, count of 1's: 39
+M01804: 39, count of 1's: 39
+M01805: 0, count of 1's: 0
+M01806: 22, count of 1's: 22
+M01807: 2, count of 1's: 2
+M01809: 1, count of 1's: 1
+M01812: 53, count of 1's: 53
+M01814: 24, count of 1's: 24
+M01815: 14, count of 1's: 14
+M01816: 24, count of 1's: 24
+M01818: 55, count of 1's: 55
+M01819: 0, count of 1's: 0
+M01820: 38, count of 1's: 38
+M01823: 3, count of 1's: 3
+M01826: 1, count of 1's: 1
+M01827: 2, count of 1's: 2
+M01828: 1, count of 1's: 1
+M01830: 11, count of 1's: 11
+M01834: 3, count of 1's: 3
+M01837: 15, count of 1's: 15
+M01838: 114, count of 1's: 114
+M01839: 67, count of 1's: 67
+M01840: 47, count of 1's: 47
+M01841: 0, count of 1's: 0
+M01843: 98, count of 1's: 98
+M01844: 0, count of 1's: 0
+M01845: 1, count of 1's: 1
+M01848: 4, count of 1's: 4
+M01849: 0, count of 1's: 0
+M01850: 7, count of 1's: 7
+M01851: 4, count of 1's: 4
+M01852: 22, count of 1's: 22
+M01854: 6, count of 1's: 6
+M01857: 9, count of 1's: 9
+M01861: 44, count of 1's: 44
+M01862: 41, count of 1's: 41
+M01863: 36, count of 1's: 36
+M01864: 0, count of 1's: 0
+M01866: 1, count of 1's: 1
+M01868: 0, count of 1's: 0
+M01869: 0, count of 1's: 0
+M01871: 9, count of 1's: 9
+M01874: 7, count of 1's: 7
+M01875: 4, count of 1's: 4
+M01876: 108, count of 1's: 108
+M01881: 9, count of 1's: 9
+M01883: 5, count of 1's: 5
+M01884: 24, count of 1's: 24
+M01888: 3, count of 1's: 3
+M01889: 39, count of 1's: 39
+M01891: 7, count of 1's: 7
+M01892: 0, count of 1's: 0
+M01896: 1, count of 1's: 1
+M01899: 6, count of 1's: 6
+M01902: 7, count of 1's: 7
+M01903: 58, count of 1's: 58
+M01905: 3, count of 1's: 3
+M01906: 32, count of 1's: 32
+M01909: 35, count of 1's: 35
+M01910: 14, count of 1's: 14
+M01911: 20, count of 1's: 20
+M01913: 4, count of 1's: 4
+M01914: 44, count of 1's: 44
+M01916: 42, count of 1's: 42
+M01917: 31, count of 1's: 31
+M01919: 15, count of 1's: 15
+M01923: 5, count of 1's: 5
+M01924: 72, count of 1's: 72
+M01925: 529, count of 1's: 529
+M01927: 12, count of 1's: 12
+M01932: 11, count of 1's: 11
+M01933: 80, count of 1's: 80
+M01935: 36, count of 1's: 36
+M01936: 4, count of 1's: 4
+M01937: 2, count of 1's: 2
+M01938: 16, count of 1's: 16
+M01940: 77, count of 1's: 77
+M01941: 2, count of 1's: 2
+M01944: 20, count of 1's: 20
+M01945: 0, count of 1's: 0
+M01946: 5, count of 1's: 5
+M01947: 27, count of 1's: 27
+M01948: 58, count of 1's: 58
+M01949: 77, count of 1's: 77
+M01951: 121, count of 1's: 121
+M01953: 3, count of 1's: 3
+M01954: 43, count of 1's: 43
+M01955: 10, count of 1's: 10
+M01957: 31, count of 1's: 31
+M01958: 32, count of 1's: 32
+M01959: 25, count of 1's: 25
+M01960: 7, count of 1's: 7
+M01961: 182, count of 1's: 182
+M01962: 32, count of 1's: 32
+M01964: 1, count of 1's: 1
+M01966: 75, count of 1's: 75
+M01967: 5, count of 1's: 5
+M01968: 30, count of 1's: 30
+M01970: 23, count of 1's: 23
+M01971: 2, count of 1's: 2
+M01972: 89, count of 1's: 89
+M01974: 70, count of 1's: 70
+M01975: 19, count of 1's: 19
+M01976: 140, count of 1's: 140
+M01979: 94, count of 1's: 94
+M01980: 136, count of 1's: 136
+M01981: 225, count of 1's: 225
+M01982: 38, count of 1's: 38
+M01983: 222, count of 1's: 222
+M01985: 236, count of 1's: 236
+M01986: 140, count of 1's: 140
+M01987: 139, count of 1's: 139
+M01988: 178, count of 1's: 178
+M01989: 141, count of 1's: 141
+M01990: 98, count of 1's: 98
+M01992: 160, count of 1's: 160
+M02010: 2, count of 1's: 2
+M02011: 205, count of 1's: 205
+M02013: 0, count of 1's: 0
+M02014: 5, count of 1's: 5
+M02015: 23, count of 1's: 23
+M02016: 7, count of 1's: 7
+M02028: 1, count of 1's: 1
+M02032: 21, count of 1's: 21
+M02033: 0, count of 1's: 0
+M02036: 25, count of 1's: 25
+M02037: 36, count of 1's: 36
+M02038: 17, count of 1's: 17
+M02039: 16, count of 1's: 16
+M02040: 199, count of 1's: 199
+M02041: 5, count of 1's: 5
+M02042: 5, count of 1's: 5
+M02043: 6, count of 1's: 6
+MA0002.2: 2, count of 1's: 2
+MA0003.1: 23, count of 1's: 23
+MA0004.1: 124, count of 1's: 124
+MA0006.1: 194, count of 1's: 194
+MA0007.1: 1, count of 1's: 1
+MA0017.1: 7, count of 1's: 7
+MA0018.2: 30, count of 1's: 30
+MA0019.1: 1, count of 1's: 1
+MA0024.1: 32, count of 1's: 32
+MA0025.1: 0, count of 1's: 0
+MA0027.1: 12, count of 1's: 12
+MA0028.1: 87, count of 1's: 87
+MA0031.1: 7, count of 1's: 7
+MA0032.1: 2, count of 1's: 2
+MA0033.1: 7, count of 1's: 7
+MA0035.2: 1, count of 1's: 1
+MA0038.1: 0, count of 1's: 0
+MA0039.2: 6, count of 1's: 6
+MA0041.1: 20, count of 1's: 20
+MA0042.1: 4, count of 1's: 4
+MA0046.1: 0, count of 1's: 0
+MA0048.1: 38, count of 1's: 38
+MA0050.1: 8, count of 1's: 8
+MA0051.1: 10, count of 1's: 10
+MA0052.1: 0, count of 1's: 0
+MA0055.1: 21, count of 1's: 21
+MA0057.1: 18, count of 1's: 18
+MA0058.1: 14, count of 1's: 14
+MA0059.1: 74, count of 1's: 74
+MA0060.1: 9, count of 1's: 9
+MA0061.1: 6, count2020-09-21 14:50:09.404933: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2020-09-21 14:50:09.577020: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 0 with properties: 
+name: Tesla P100-PCIE-12GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+pciBusID: 0000:03:00.0
+totalMemory: 11.91GiB freeMemory: 11.66GiB
+2020-09-21 14:50:09.676818: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 1 with properties: 
+name: Tesla P100-PCIE-12GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+pciBusID: 0000:04:00.0
+totalMemory: 11.91GiB freeMemory: 11.66GiB
+2020-09-21 14:50:09.786539: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 2 with properties: 
+name: Tesla P100-PCIE-12GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+pciBusID: 0000:82:00.0
+totalMemory: 11.91GiB freeMemory: 11.66GiB
+2020-09-21 14:50:09.911321: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 3 with properties: 
+name: Tesla P100-PCIE-12GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+pciBusID: 0000:83:00.0
+totalMemory: 11.91GiB freeMemory: 11.66GiB
+2020-09-21 14:50:09.913821: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0, 1, 2, 3
+2020-09-21 14:50:17.187091: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2020-09-21 14:50:17.187179: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0 1 2 3 
+2020-09-21 14:50:17.187199: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N Y N N 
+2020-09-21 14:50:17.187212: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 1:   Y N N N 
+2020-09-21 14:50:17.187223: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 2:   N N N Y 
+2020-09-21 14:50:17.187235: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 3:   N N Y N 
+2020-09-21 14:50:17.187457: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 11283 MB memory) -> physical GPU (device: 0, name: Tesla P100-PCIE-12GB, pci bus id: 0000:03:00.0, compute capability: 6.0)
+2020-09-21 14:50:17.306188: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 11283 MB memory) -> physical GPU (device: 1, name: Tesla P100-PCIE-12GB, pci bus id: 0000:04:00.0, compute capability: 6.0)
+2020-09-21 14:50:17.443372: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 11283 MB memory) -> physical GPU (device: 2, name: Tesla P100-PCIE-12GB, pci bus id: 0000:82:00.0, compute capability: 6.0)
+2020-09-21 14:50:17.562283: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 11283 MB memory) -> physical GPU (device: 3, name: Tesla P100-PCIE-12GB, pci bus id: 0000:83:00.0, compute capability: 6.0)
+ of 1's: 6
+MA0062.2: 1, count of 1's: 1
+MA0065.2: 3, count of 1's: 3
+MA0066.1: 4, count of 1's: 4
+MA0069.1: 11, count of 1's: 11
+MA0070.1: 0, count of 1's: 0
+MA0071.1: 0, count of 1's: 0
+MA0072.1: 0, count of 1's: 0
+MA0073.1: 8, count of 1's: 8
+MA0074.1: 6, count of 1's: 6
+MA0076.1: 137, count of 1's: 137
+MA0079.2: 52, count of 1's: 52
+MA0083.1: 3, count of 1's: 3
+MA0084.1: 1, count of 1's: 1
+MA0088.1: 12, count of 1's: 12
+MA0090.1: 6, count of 1's: 6
+MA0091.1: 1, count of 1's: 1
+MA0092.1: 0, count of 1's: 0
+MA0093.1: 107, count of 1's: 107
+MA0099.2: 130, count of 1's: 130
+MA0100.1: 76, count of 1's: 76
+MA0102.2: 1, count of 1's: 1
+MA0104.2: 18, count of 1's: 18
+MA0105.1: 19, count of 1's: 19
+MA0106.1: 12, count of 1's: 12
+MA0107.1: 9, count of 1's: 9
+MA0108.2: 36, count of 1's: 36
+MA0109.1: 2, count of 1's: 2
+MA0111.1: 7, count of 1's: 7
+MA0112.2: 3, count of 1's: 3
+MA0113.1: 0, count of 1's: 0
+MA0114.1: 3, count of 1's: 3
+MA0115.1: 14, count of 1's: 14
+MA0117.1: 25, count of 1's: 25
+MA0119.1: 11, count of 1's: 11
+MA0122.1: 1, count of 1's: 1
+MA0125.1: 5, count of 1's: 5
+MA0133.1: 43, count of 1's: 43
+MA0135.1: 0, count of 1's: 0
+MA0136.1: 8, count of 1's: 8
+MA0137.2: 4, count of 1's: 4
+MA0138.2: 9, count of 1's: 9
+MA0139.1: 299, count of 1's: 299
+MA0140.1: 4, count of 1's: 4
+MA0141.1: 11, count of 1's: 11
+MA0142.1: 2, count of 1's: 2
+MA0143.1: 0, count of 1's: 0
+MA0144.1: 2, count of 1's: 2
+MA0146.1: 26, count of 1's: 26
+MA0147.1: 21, count of 1's: 21
+MA0148.1: 1, count of 1's: 1
+MA0150.1: 9, count of 1's: 9
+MA0153.1: 0, count of 1's: 0
+MA0154.1: 21, count of 1's: 21
+MA0155.1: 26, count of 1's: 26
+MA0156.1: 45, count of 1's: 45
+MA0157.1: 14, count of 1's: 14
+MA0158.1: 4, count of 1's: 4
+MA0159.1: 3, count of 1's: 3
+MA0160.1: 23, count of 1's: 23
+MA0162.1: 210, count of 1's: 210
+MA0163.1: 1, count of 1's: 1
+MA0164.1: 11, count of 1's: 11
+MA0258.1: 4, count of 1's: 4
+PBM0001: 3, count of 1's: 3
+PBM0002: 3, count of 1's: 3
+PBM0005: 1, count of 1's: 1
+PBM0008: 0, count of 1's: 0
+PBM0009: 65, count of 1's: 65
+PBM0011: 0, count of 1's: 0
+PBM0012: 13, count of 1's: 13
+PBM0013: 32, count of 1's: 32
+PBM0014: 54, count of 1's: 54
+PBM0015: 1, count of 1's: 1
+PBM0016: 89, count of 1's: 89
+PBM0018: 19, count of 1's: 19
+PBM0019: 45, count of 1's: 45
+PBM0020: 87, count of 1's: 87
+PBM0022: 117, count of 1's: 117
+PBM0023: 182, count of 1's: 182
+PBM0026: 0, count of 1's: 0
+PBM0027: 66, count of 1's: 66
+PBM0028: 0, count of 1's: 0
+PBM0031: 20, count of 1's: 20
+PBM0033: 167, count of 1's: 167
+PBM0035: 32, count of 1's: 32
+PBM0036: 23, count of 1's: 23
+PBM0037: 5, count of 1's: 5
+PBM0038: 0, count of 1's: 0
+PBM0039: 2, count of 1's: 2
+PBM0040: 0, count of 1's: 0
+PBM0041: 15, count of 1's: 15
+PBM0042: 13, count of 1's: 13
+PBM0043: 2, count of 1's: 2
+PBM0044: 12, count of 1's: 12
+PBM0047: 8, count of 1's: 8
+PBM0049: 97, count of 1's: 97
+PBM0050: 0, count of 1's: 0
+PBM0054: 299, count of 1's: 299
+PBM0055: 0, count of 1's: 0
+PBM0056: 1, count of 1's: 1
+PBM0058: 2, count of 1's: 2
+PBM0059: 9, count of 1's: 9
+PBM0060: 34, count of 1's: 34
+PBM0062: 23, count of 1's: 23
+PBM0064: 2, count of 1's: 2
+PBM0066: 17, count of 1's: 17
+PBM0067: 0, count of 1's: 0
+PBM0068: 106, count of 1's: 106
+PBM0072: 30, count of 1's: 30
+PBM0073: 0, count of 1's: 0
+PBM0074: 0, count of 1's: 0
+PBM0077: 157, count of 1's: 157
+PBM0078: 17, count of 1's: 17
+PBM0079: 40, count of 1's: 40
+PBM0081: 35, count of 1's: 35
+PBM0082: 77, count of 1's: 77
+PBM0083: 49, count of 1's: 49
+PBM0084: 123, count of 1's: 123
+PBM0085: 85, count of 1's: 85
+PBM0087: 225, count of 1's: 225
+PBM0088: 0, count of 1's: 0
+PBM0089: 41, count of 1's: 41
+PBM0090: 210, count of 1's: 210
+PBM0091: 159, count of 1's: 159
+PBM0092: 4, count of 1's: 4
+PBM0093: 22, count of 1's: 22
+PBM0094: 89, count of 1's: 89
+PBM0095: 378, count of 1's: 378
+PBM0097: 169, count of 1's: 169
+PBM0099: 36, count of 1's: 36
+PBM0100: 48, count of 1's: 48
+PBM0101: 177, count of 1's: 177
+PBM0103: 218, count of 1's: 218
+PBM0104: 272, count of 1's: 272
+PBM0105: 153, count of 1's: 153
+PBM0106: 13, count of 1's: 13
+PBM0107: 167, count of 1's: 167
+PBM0110: 140, count of 1's: 140
+PBM0111: 33, count of 1's: 33
+PBM0113: 299, count of 1's: 299
+PBM0114: 225, count of 1's: 225
+PBM0115: 35, count of 1's: 35
+PBM0116: 192, count of 1's: 192
+PBM0117: 196, count of 1's: 196
+PBM0118: 200, count of 1's: 200
+PBM0119: 58, count of 1's: 58
+PBM0120: 199, count of 1's: 199
+PBM0121: 187, count of 1's: 187
+PBM0123: 5, count of 1's: 5
+PBM0124: 113, count of 1's: 113
+PBM0125: 19, count of 1's: 19
+PBM0126: 201, count of 1's: 201
+PBM0127: 205, count of 1's: 205
+PBM0128: 51, count of 1's: 51
+PBM0129: 38, count of 1's: 38
+PBM0130: 156, count of 1's: 156
+PBM0131: 28, count of 1's: 28
+PBM0132: 219, count of 1's: 219
+PBM0133: 25, count of 1's: 25
+PBM0134: 26, count of 1's: 26
+PBM0135: 208, count of 1's: 208
+PBM0136: 41, count of 1's: 41
+PBM0137: 58, count of 1's: 58
+PBM0138: 7, count of 1's: 7
+PBM0139: 5, count of 1's: 5
+PBM0140: 29, count of 1's: 29
+PBM0141: 5, count of 1's: 5
+PBM0142: 12, count of 1's: 12
+PBM0143: 5, count of 1's: 5
+PBM0144: 8, count of 1's: 8
+PBM0145: 61, count of 1's: 61
+PBM0146: 0, count of 1's: 0
+PBM0147: 4, count of 1's: 4
+PBM0148: 7, count of 1's: 7
+PBM0149: 1, count of 1's: 1
+PBM0150: 4, count of 1's: 4
+PBM0152: 0, count of 1's: 0
+PBM0156: 29, count of 1's: 29
+PBM0157: 5, count of 1's: 5
+PBM0158: 5, count of 1's: 5
+PBM0159: 5, count of 1's: 5
+PBM0160: 1, count of 1's: 1
+PBM0161: 1, count of 1's: 1
+PBM0162: 61, count of 1's: 61
+PBM0163: 3, count of 1's: 3
+PBM0164: 6, count of 1's: 6
+PBM0166: 1, count of 1's: 1
+PBM0167: 19, count of 1's: 19
+PBM0171: 55, count of 1's: 55
+PBM0172: 55, count of 1's: 55
+PBM0173: 12, count of 1's: 12
+PBM0174: 16, count of 1's: 16
+PBM0175: 20, count of 1's: 20
+PBM0176: 60, count of 1's: 60
+PBM0181: 119, count of 1's: 119
+PBM0182: 3, count of 1's: 3
+PBM0183: 5, count of 1's: 5
+PBM0184: 1, count of 1's: 1
+PBM0185: 5, count of 1's: 5
+PBM0186: 16, count of 1's: 16
+PBM0187: 1, count of 1's: 1
+PBM0188: 152, count of 1's: 152
+PBM0189: 4, count of 1's: 4
+PBM0191: 60, count of 1's: 60
+PBM0192: 1, count of 1's: 1
+PBM0195: 20, count of 1's: 20
+PBM0196: 1, count of 1's: 1
+PBM0197: 2, count of 1's: 2
+PBM0198: 119, count of 1's: 119
+PBM0199: 2, count of 1's: 2
+PBM0200: 58, count of 1's: 58
+PBM0201: 81, count of 1's: 81
+PBM0202: 0, count of 1's: 0
+PBM0203: 695, count of 1's: 695
+PBM0205: 5, count of 1's: 5
+PBM0206: 15, count of 1's: 15
+PBM0207: 0, count of 1's: 0
+Making ref allele matrix
+Making alt allele matrix
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_9.h5
+(29103, 14)
+(8036, 3)
+Making snp footprint matrix
+M00001: 41, count of 1's: 41
+M00002: 20, count of 1's: 20
+M00003: 1, count of 1's: 1
+M00006: 1, count of 1's: 1
+M00007: 23, count of 1's: 23
+M00008: 59, count of 1's: 59
+M00014: 16, count of 1's: 16
+M00015: 0, count of 1's: 0
+M00016: 38, count of 1's: 38
+M00017: 82, count of 1's: 82
+M00018: 0, count of 1's: 0
+M00019: 0, count of 1's: 0
+M00021: 0, count of 1's: 0
+M00022: 0, count of 1's: 0
+M00024: 47, count of 1's: 47
+M00025: 8, count of 1's: 8
+M00026: 0, count of 1's: 0
+M00031: 1, count of 1's: 1
+M00032: 142, count of 1's: 142
+M00034: 18, count of 1's: 18
+M00035: 18, count of 1's: 18
+M00036: 27, count of 1's: 27
+M00037: 20, count of 1's: 20
+M00039: 8, count of 1's: 8
+M00040: 3, count of 1's: 3
+M00041: 36, count of 1's: 36
+M00042: 3, count of 1's: 3
+M00043: 8, count of 1's: 8
+M00044: 9, count of 1's: 9
+M00045: 0, count of 1's: 0
+M00046: 14, count of 1's: 14
+M00047: 2, count of 1's: 2
+M00049: 138, count of 1's: 138
+M00050: 23, count of 1's: 23
+M00051: 15, count of 1's: 15
+M00052: 9, count of 1's: 9
+M00054: 4, count of 1's: 4
+M00055: 90, count of 1's: 90
+M00059: 0, count of 1's: 0
+M00060: 4, count of 1's: 4
+M00062: 7, count of 1's: 7
+M00063: 9, count of 1's: 9
+M00064: 22, count of 1's: 22
+M00065: 0, count of 1's: 0
+M00066: 1, count of 1's: 1
+M00067: 32, count of 1's: 32
+M00068: 2, count of 1's: 2
+M00069: 13, count of 1's: 13
+M00070: 2, count of 1's: 2
+M00071: 6, count of 1's: 6
+M00072: 0, count of 1's: 0
+M00073: 0, count of 1's: 0
+M00075: 22, count of 1's: 22
+M00076: 1, count of 1's: 1
+M00077: 1, count of 1's: 1
+M00078: 1, count of 1's: 1
+M00081: 0, count of 1's: 0
+M00082: 0, count of 1's: 0
+M00083: 21, count of 1's: 21
+M00084: 71, count of 1's: 71
+M00086: 0, count of 1's: 0
+M00089: 0, count of 1's: 0
+M00091: 4, count of 1's: 4
+M00093: 3, count of 1's: 3
+M00094: 1, count of 1's: 1
+M00097: 3, count of 1's: 3
+M00098: 1, count of 1's: 1
+M00101: 6, count of 1's: 6
+M00102: 0, count of 1's: 0
+M00104: 4, count of 1's: 4
+M00105: 0, count of 1's: 0
+M00106: 8, count of 1's: 8
+M00107: 14, count of 1's: 14
+M00108: 155, count of 1's: 155
+M00109: 0, count of 1's: 0
+M00111: 28, count of 1's: 28
+M00112: 3, count of 1's: 3
+M00113: 28, count of 1's: 28
+M00114: 64, count of 1's: 64
+M00115: 33, count of 1's: 33
+M00116: 0, count of 1's: 0
+M00117: 1, count of 1's: 1
+M00118: 7, count of 1's: 7
+M00119: 5, count of 1's: 5
+M00121: 13, count of 1's: 13
+M00122: 6, count of 1's: 6
+M00123: 11, count of 1's: 11
+M00124: 0, count of 1's: 0
+M00126: 1, count of 1's: 1
+M00127: 4, count of 1's: 4
+M00128: 0, count of 1's: 0
+M00129: 0, count of 1's: 0
+M00130: 6, count of 1's: 6
+M00131: 0, count of 1's: 0
+M00132: 0, count of 1's: 0
+M00133: 0, count of 1's: 0
+M00134: 4, count of 1's: 4
+M00135: 2, count of 1's: 2
+M00136: 4, count of 1's: 4
+M00138: 0, count of 1's: 0
+M00139: 33, count of 1's: 33
+M00140: 4, count of 1's: 4
+M00141: 1, count of 1's: 1
+M00146: 1, count of 1's: 1
+M00147: 1, count of 1's: 1
+M00150: 1, count of 1's: 1
+M00151: 0, count of 1's: 0
+M00152: 2, count of 1's: 2
+M00154: 21, count of 1's: 21
+M00155: 3, count of 1's: 3
+M00156: 2, count of 1's: 2
+M00157: 0, count of 1's: 0
+M00158: 7, count of 1's: 7
+M00159: 0, count of 1's: 0
+M00160: 1, count of 1's: 1
+M00161: 1, count of 1's: 1
+M00163: 12, count of 1's: 12
+M00165: 0, count of 1's: 0
+M00168: 2, count of 1's: 2
+M00169: 0, count of 1's: 0
+M00171: 7, count of 1's: 7
+M00172: 0, count of 1's: 0
+M00173: 0, count of 1's: 0
+M00174: 17, count of 1's: 17
+M00175: 25, count of 1's: 25
+M00176: 1, count of 1's: 1
+M00178: 45, count of 1's: 45
+M00179: 15, count of 1's: 15
+M00182: 26, count of 1's: 26
+M00184: 1, count of 1's: 1
+M00185: 1, count of 1's: 1
+M00186: 5, count of 1's: 5
+M00187: 28, count of 1's: 28
+M00188: 4, count of 1's: 4
+M00190: 0, count of 1's: 0
+M00191: 6, count of 1's: 6
+M00192: 2, count of 1's: 2
+M00193: 4, count of 1's: 4
+M00194: 17, count of 1's: 17
+M00195: 2, count of 1's: 2
+M00196: 45, count of 1's: 45
+M00197: 5, count of 1's: 5
+M00198: 4, count of 1's: 4
+M00199: 19, count of 1's: 19
+M00201: 0, count of 1's: 0
+M00203: 0, count of 1's: 0
+M00204: 7, count of 1's: 7
+M00205: 2, count of 1's: 2
+M00206: 1, count of 1's: 1
+M00208: 17, count of 1's: 17
+M00209: 0, count of 1's: 0
+M00210: 7, count of 1's: 7
+M00211: 5, count of 1's: 5
+M00213: 0, count of 1's: 0
+M00215: 4, count of 1's: 4
+M00217: 23, count of 1's: 23
+M00218: 0, count of 1's: 0
+M00220: 8, count of 1's: 8
+M00221: 5, count of 1's: 5
+M00222: 0, count of 1's: 0
+M00223: 17, count of 1's: 17
+M00225: 5, count of 1's: 5
+M00226: 0, count of 1's: 0
+M00227: 38, count of 1's: 38
+M00228: 0, count of 1's: 0
+M00229: 0, count of 1's: 0
+M00230: 1, count of 1's: 1
+M00232: 0, count of 1's: 0
+M00233: 3, count of 1's: 3
+M00235: 93, count of 1's: 93
+M00236: 70, count of 1's: 70
+M00237: 77, count of 1's: 77
+M00238: 6, count of 1's: 6
+M00239: 2, count of 1's: 2
+M00241: 3, count of 1's: 3
+M00242: 0, count of 1's: 0
+M00243: 80, count of 1's: 80
+M00244: 170, count of 1's: 170
+M00245: 31, count of 1's: 31
+M00246: 50, count of 1's: 50
+M00248: 3, count of 1's: 3
+M00250: 0, count of 1's: 0
+M00251: 16, count of 1's: 16
+M00252: 22, count of 1's: 22
+M00253: 3, count of 1's: 3
+M00254: 3, count of 1's: 3
+M00255: 54, count of 1's: 54
+M00256: 6, count of 1's: 6
+M00257: 103, count of 1's: 103
+M00258: 9, count of 1's: 9
+M00260: 0, count of 1's: 0
+M00261: 32, count of 1's: 32
+M00262: 17, count of 1's: 17
+M00263: 88, count of 1's: 88
+M00264: 8, count of 1's: 8
+M00266: 0, count of 1's: 0
+M00270: 41, count of 1's: 41
+M00272: 0, count of 1's: 0
+M00276: 2, count of 1's: 2
+M00277: 9, count of 1's: 9
+M00279: 11, count of 1's: 11
+M00280: 4, count of 1's: 4
+M00281: 11, count of 1's: 11
+M00284: 10, count of 1's: 10
+M00285: 1, count of 1's: 1
+M00287: 5, count of 1's: 5
+M00288: 7, count of 1's: 7
+M00291: 0, count of 1's: 0
+M00292: 1, count of 1's: 1
+M00294: 0, count of 1's: 0
+M00303: 8, count of 1's: 8
+M00304: 13, count of 1's: 13
+M00305: 25, count of 1's: 25
+M00306: 14, count of 1's: 14
+M00307: 56, count of 1's: 56
+M00309: 7, count of 1's: 7
+M00310: 0, count of 1's: 0
+M00313: 17, count of 1's: 17
+M00314: 3, count of 1's: 3
+M00315: 2, count of 1's: 2
+M00318: 1, count of 1's: 1
+M00319: 2, count of 1's: 2
+M00320: 14, count of 1's: 14
+M00321: 9, count of 1's: 9
+M00322: 51, count of 1's: 51
+M00323: 6, count of 1's: 6
+M00325: 6, count of 1's: 6
+M00327: 17, count of 1's: 17
+M00328: 3, count of 1's: 3
+M00332: 22, count of 1's: 22
+M00333: 56, count of 1's: 56
+M00334: 0, count of 1's: 0
+M00337: 4, count of 1's: 4
+M00338: 29, count of 1's: 29
+M00339: 19, count of 1's: 19
+M00340: 6, count of 1's: 6
+M00342: 5, count of 1's: 5
+M00343: 0, count of 1's: 0
+M00344: 2, count of 1's: 2
+M00345: 20, count of 1's: 20
+M00347: 0, count of 1's: 0
+M00348: 1, count of 1's: 1
+M00349: 1, count of 1's: 1
+M00350: 0, count of 1's: 0
+M00352: 1, count of 1's: 1
+M00353: 2, count of 1's: 2
+M00355: 6, count of 1's: 6
+M00356: 6, count of 1's: 6
+M00357: 14, count of 1's: 14
+M00358: 7, count of 1's: 7
+M00359: 70, count of 1's: 70
+M00361: 8, count of 1's: 8
+M00362: 0, count of 1's: 0
+M00366: 22, count of 1's: 22
+M00367: 22, count of 1's: 22
+M00368: 3, count of 1's: 3
+M00369: 19, count of 1's: 19
+M00370: 4, count of 1's: 4
+M00371: 4, count of 1's: 4
+M00372: 8, count of 1's: 8
+M00373: 165, count of 1's: 165
+M00375: 22, count of 1's: 22
+M00376: 6, count of 1's: 6
+M00377: 0, count of 1's: 0
+M00378: 4, count of 1's: 4
+M00388: 7, count of 1's: 7
+M00391: 59, count of 1's: 59
+M00392: 0, count of 1's: 0
+M00393: 1, count of 1's: 1
+M00394: 3, count of 1's: 3
+M00396: 11, count of 1's: 11
+M00398: 3, count of 1's: 3
+M00399: 50, count of 1's: 50
+M00400: 142, count of 1's: 142
+M00403: 0, count of 1's: 0
+M00404: 0, count of 1's: 0
+M00405: 2, count of 1's: 2
+M00406: 0, count of 1's: 0
+M00407: 1, count of 1's: 1
+M00408: 0, count of 1's: 0
+M00411: 3, count of 1's: 3
+M00412: 3, count of 1's: 3
+M00414: 3, count of 1's: 3
+M00415: 0, count of 1's: 0
+M00418: 1, count of 1's: 1
+M00419: 0, count of 1's: 0
+M00420: 0, count of 1's: 0
+M00421: 1, count of 1's: 1
+M00422: 4, count of 1's: 4
+M00423: 0, count of 1's: 0
+M00424: 1, count of 1's: 1
+M00425: 49, count of 1's: 49
+M00426: 67, count of 1's: 67
+M00427: 58, count of 1's: 58
+M00428: 81, count of 1's: 81
+M00431: 59, count of 1's: 59
+M00432: 0, count of 1's: 0
+M00433: 24, count of 1's: 24
+M00434: 32, count of 1's: 32
+M00435: 22, count of 1's: 22
+M00436: 0, count of 1's: 0
+M00438: 8, count of 1's: 8
+M00439: 5, count of 1's: 5
+M00440: 49, count of 1's: 49
+M00441: 62, count of 1's: 62
+M00442: 46, count of 1's: 46
+M00443: 3, count of 1's: 3
+M00444: 76, count of 1's: 76
+M00446: 2, count of 1's: 2
+M00447: 0, count of 1's: 0
+M00448: 4, count of 1's: 4
+M00449: 0, count of 1's: 0
+M00450: 4, count of 1's: 4
+M00451: 3, count of 1's: 3
+M00453: 7, count of 1's: 7
+M00456: 8, count of 1's: 8
+M00457: 0, count of 1's: 0
+M00459: 1, count of 1's: 1
+M00461: 0, count of 1's: 0
+M00462: 0, count of 1's: 0
+M00464: 2, count of 1's: 2
+M00465: 0, count of 1's: 0
+M00466: 44, count of 1's: 44
+M00467: 4, count of 1's: 4
+M00468: 6, count of 1's: 6
+M00469: 18, count of 1's: 18
+M00470: 16, count of 1's: 16
+M00471: 2, count of 1's: 2
+M00473: 1, count of 1's: 1
+M00474: 1, count of 1's: 1
+M00476: 0, count of 1's: 0
+M00477: 0, count of 1's: 0
+M00479: 9, count of 1's: 9
+M00481: 2, count of 1's: 2
+M00483: 5, count of 1's: 5
+M00484: 3, count of 1's: 3
+M00486: 3, count of 1's: 3
+M00487: 1, count of 1's: 1
+M00488: 2, count of 1's: 2
+M00489: 0, count of 1's: 0
+M00490: 22, count of 1's: 22
+M00491: 254, count of 1's: 254
+M00492: 34, count of 1's: 34
+M00494: 1, count of 1's: 1
+M00495: 9, count of 1's: 9
+M00496: 15, count of 1's: 15
+M00497: 13, count of 1's: 13
+M00499: 5, count of 1's: 5
+M00500: 30, count of 1's: 30
+M00502: 0, count of 1's: 0
+M00510: 2, count of 1's: 2
+M00511: 4, count of 1's: 4
+M00512: 4, count of 1's: 4
+M00513: 24, count of 1's: 24
+M00514: 19, count of 1's: 19
+M00515: 2, count of 1's: 2
+M00516: 93, count of 1's: 93
+M00517: 35, count of 1's: 35
+M00518: 7, count of 1's: 7
+M00526: 3, count of 1's: 3
+M00528: 5, count of 1's: 5
+M00532: 0, count of 1's: 0
+M00539: 14, count of 1's: 14
+M00615: 136, count of 1's: 136
+M00616: 2, count of 1's: 2
+M00621: 0, count of 1's: 0
+M00624: 13, count of 1's: 13
+M00626: 1, count of 1's: 1
+M00629: 3, count of 1's: 3
+M00630: 3, count of 1's: 3
+M00631: 10, count of 1's: 10
+M00638: 3, count of 1's: 3
+M00640: 5, count of 1's: 5
+M00641: 3, count of 1's: 3
+M00644: 74, count of 1's: 74
+M00646: 15, count of 1's: 15
+M00647: 1, count of 1's: 1
+M00648: 10, count of 1's: 10
+M00649: 76, count of 1's: 76
+M00650: 19, count of 1's: 19
+M00651: 0, count of 1's: 0
+M00652: 18, count of 1's: 18
+M00654: 154, count of 1's: 154
+M00657: 2, count of 1's: 2
+M00658: 58, count of 1's: 58
+M00660: 32, count of 1's: 32
+M00664: 24, count of 1's: 24
+M00665: 8, count of 1's: 8
+M00666: 23, count of 1's: 23
+M00671: 1, count of 1's: 1
+M00678: 5, count of 1's: 5
+M00679: 9, count of 1's: 9
+M00684: 0, count of 1's: 0
+M00687: 3, count of 1's: 3
+M00689: 0, count of 1's: 0
+M00690: 2, count of 1's: 2
+M00691: 41, count of 1's: 41
+M00693: 83, count of 1's: 83
+M00694: 83, count of 1's: 83
+M00696: 10, count of 1's: 10
+M00697: 90, count of 1's: 90
+M00698: 14, count of 1's: 14
+M00699: 8, count of 1's: 8
+M00700: 0, count of 1's: 0
+M00701: 5, count of 1's: 5
+M00703: 27, count of 1's: 27
+M00706: 17, count of 1's: 17
+M00707: 1, count of 1's: 1
+M00711: 5, count of 1's: 5
+M00712: 49, count of 1's: 49
+M00713: 2, count of 1's: 2
+M00717: 1, count of 1's: 1
+M00720: 20, count of 1's: 20
+M00721: 8, count of 1's: 8
+M00722: 55, count of 1's: 55
+M00724: 3, count of 1's: 3
+M00727: 12, count of 1's: 12
+M00728: 0, count of 1's: 0
+M00730: 34, count of 1's: 34
+M00731: 18, count of 1's: 18
+M00732: 0, count of 1's: 0
+M00734: 3, count of 1's: 3
+M00735: 11, count of 1's: 11
+M00736: 35, count of 1's: 35
+M00737: 46, count of 1's: 46
+M00738: 17, count of 1's: 17
+M00739: 33, count of 1's: 33
+M00740: 38, count of 1's: 38
+M00742: 0, count of 1's: 0
+M00743: 33, count of 1's: 33
+M00746: 9, count of 1's: 9
+M00749: 60, count of 1's: 60
+M00752: 113, count of 1's: 113
+M00753: 0, count of 1's: 0
+M00761: 2, count of 1's: 2
+M00762: 6, count of 1's: 6
+M00763: 1, count of 1's: 1
+M00764: 2, count of 1's: 2
+M00765: 1, count of 1's: 1
+M00766: 51, count of 1's: 51
+M00767: 2, count of 1's: 2
+M00770: 0, count of 1's: 0
+M00771: 14, count of 1's: 14
+M00772: 12, count of 1's: 12
+M00773: 1, count of 1's: 1
+M00774: 14, count of 1's: 14
+M00775: 9, count of 1's: 9
+M00776: 7, count of 1's: 7
+M00777: 5, count of 1's: 5
+M00778: 84, count of 1's: 84
+M00788: 9, count of 1's: 9
+M00789: 15, count of 1's: 15
+M00790: 1, count of 1's: 1
+M00791: 0, count of 1's: 0
+M00792: 15, count of 1's: 15
+M00793: 6, count of 1's: 6
+M00794: 9, count of 1's: 9
+M00795: 4, count of 1's: 4
+M00796: 31, count of 1's: 31
+M00797: 117, count of 1's: 117
+M00798: 0, count of 1's: 0
+M00799: 78, count of 1's: 78
+M00800: 3, count of 1's: 3
+M00801: 64, count of 1's: 64
+M00802: 0, count of 1's: 0
+M00804: 1, count of 1's: 1
+M00806: 6, count of 1's: 6
+M00807: 36, count of 1's: 36
+M00808: 0, count of 1's: 0
+M00809: 0, count of 1's: 0
+M00810: 5, count of 1's: 5
+M00819: 0, count of 1's: 0
+M00821: 19, count of 1's: 19
+M00912: 1, count of 1's: 1
+M00913: 1, count of 1's: 1
+M00916: 74, count of 1's: 74
+M00917: 41, count of 1's: 41
+M00918: 33, count of 1's: 33
+M00919: 21, count of 1's: 21
+M00920: 78, count of 1's: 78
+M00921: 7, count of 1's: 7
+M00922: 3, count of 1's: 3
+M00924: 7, count of 1's: 7
+M00925: 10, count of 1's: 10
+M00926: 45, count of 1's: 45
+M00927: 6, count of 1's: 6
+M00929: 5, count of 1's: 5
+M00930: 3, count of 1's: 3
+M00932: 41, count of 1's: 41
+M00933: 16, count of 1's: 16
+M00934: 1, count of 1's: 1
+M00935: 1, count of 1's: 1
+M00936: 15, count of 1's: 15
+M00938: 91, count of 1's: 91
+M00939: 62, count of 1's: 62
+M00940: 62, count of 1's: 62
+M00942: 65, count of 1's: 65
+M00943: 9, count of 1's: 9
+M00944: 69, count of 1's: 69
+M00945: 31, count of 1's: 31
+M00946: 32, count of 1's: 32
+M00948: 0, count of 1's: 0
+M00949: 0, count of 1's: 0
+M00950: 0, count of 1's: 0
+M00951: 9, count of 1's: 9
+M00952: 3, count of 1's: 3
+M00958: 1, count of 1's: 1
+M00960: 0, count of 1's: 0
+M00962: 33, count of 1's: 33
+M00964: 1, count of 1's: 1
+M00965: 21, count of 1's: 21
+M00967: 1, count of 1's: 1
+M00969: 53, count of 1's: 53
+M00971: 68, count of 1's: 68
+M00972: 8, count of 1's: 8
+M00973: 32, count of 1's: 32
+M00974: 7, count of 1's: 7
+M00975: 7, count of 1's: 7
+M00976: 17, count of 1's: 17
+M00977: 14, count of 1's: 14
+M00978: 0, count of 1's: 0
+M00979: 7, count of 1's: 7
+M00980: 3, count of 1's: 3
+M00981: 25, count of 1's: 25
+M00982: 50, count of 1's: 50
+M00983: 8, count of 1's: 8
+M00984: 4, count of 1's: 4
+M00985: 17, count of 1's: 17
+M00986: 253, count of 1's: 253
+M00991: 1, count of 1's: 1
+M00992: 3, count of 1's: 3
+M00993: 7, count of 1's: 7
+M00997: 8, count of 1's: 8
+M00998: 3, count of 1's: 3
+M01002: 120, count of 1's: 120
+M01003: 3, count of 1's: 3
+M01004: 1, count of 1's: 1
+M01005: 0, count of 1's: 0
+M01007: 5, count of 1's: 5
+M01010: 3, count of 1's: 3
+M01011: 0, count of 1's: 0
+M01012: 1, count of 1's: 1
+M01013: 0, count of 1's: 0
+M01014: 4, count of 1's: 4
+M01017: 1, count of 1's: 1
+M01019: 0, count of 1's: 0
+M01020: 0, count of 1's: 0
+M01021: 0, count of 1's: 0
+M01022: 0, count of 1's: 0
+M01023: 0, count of 1's: 0
+M01028: 4, count of 1's: 4
+M01029: 7, count of 1's: 7
+M01030: 7, count of 1's: 7
+M01031: 5, count of 1's: 5
+M01034: 31, count of 1's: 31
+M01035: 5, count of 1's: 5
+M01036: 0, count of 1's: 0
+M01037: 4, count of 1's: 4
+M01042: 2, count of 1's: 2
+M01045: 10, count of 1's: 10
+M01047: 1, count of 1's: 1
+M01048: 16, count of 1's: 16
+M01049: 16, count of 1's: 16
+M01050: 8, count of 1's: 8
+M01054: 4, count of 1's: 4
+M01055: 52, count of 1's: 52
+M01057: 11, count of 1's: 11
+M01058: 0, count of 1's: 0
+M01059: 2, count of 1's: 2
+M01061: 1, count of 1's: 1
+M01062: 0, count of 1's: 0
+M01063: 0, count of 1's: 0
+M01064: 1, count of 1's: 1
+M01065: 61, count of 1's: 61
+M01066: 12, count of 1's: 12
+M01067: 0, count of 1's: 0
+M01068: 38, count of 1's: 38
+M01070: 9, count of 1's: 9
+M01078: 90, count of 1's: 90
+M01080: 0, count of 1's: 0
+M01082: 7, count of 1's: 7
+M01083: 0, count of 1's: 0
+M01092: 0, count of 1's: 0
+M01095: 1, count of 1's: 1
+M01096: 39, count of 1's: 39
+M01098: 1, count of 1's: 1
+M01100: 13, count of 1's: 13
+M01101: 4, count of 1's: 4
+M01103: 0, count of 1's: 0
+M01104: 121, count of 1's: 121
+M01105: 6, count of 1's: 6
+M01107: 1, count of 1's: 1
+M01108: 10, count of 1's: 10
+M01109: 1, count of 1's: 1
+M01111: 13, count of 1's: 13
+M01112: 15, count of 1's: 15
+M01113: 54, count of 1's: 54
+M01114: 57, count of 1's: 57
+M01116: 24, count of 1's: 24
+M01117: 5, count of 1's: 5
+M01118: 58, count of 1's: 58
+M01119: 2, count of 1's: 2
+M01122: 27, count of 1's: 27
+M01124: 0, count of 1's: 0
+M01125: 2, count of 1's: 2
+M01127: 0, count of 1's: 0
+M01128: 0, count of 1's: 0
+M01132: 1, count of 1's: 1
+M01135: 1, count of 1's: 1
+M01138: 1, count of 1's: 1
+M01139: 6, count of 1's: 6
+M01142: 3, count of 1's: 3
+M01145: 11, count of 1's: 11
+M01146: 0, count of 1's: 0
+M01147: 0, count of 1's: 0
+M01148: 0, count of 1's: 0
+M01152: 2, count of 1's: 2
+M01153: 3, count of 1's: 3
+M01154: 23, count of 1's: 23
+M01156: 55, count of 1's: 55
+M01162: 7, count of 1's: 7
+M01163: 104, count of 1's: 104
+M01164: 0, count of 1's: 0
+M01167: 121, count of 1's: 121
+M01169: 17, count of 1's: 17
+M01172: 20, count of 1's: 20
+M01173: 2, count of 1's: 2
+M01175: 49, count of 1's: 49
+M01180: 8, count of 1's: 8
+M01181: 18, count of 1's: 18
+M01182: 68, count of 1's: 68
+M01186: 34, count of 1's: 34
+M01187: 31, count of 1's: 31
+M01189: 0, count of 1's: 0
+M01192: 2, count of 1's: 2
+M01193: 2, count of 1's: 2
+M01194: 0, count of 1's: 0
+M01195: 5, count of 1's: 5
+M01196: 9, count of 1's: 9
+M01197: 4, count of 1's: 4
+M01198: 3, count of 1's: 3
+M01200: 238, count of 1's: 238
+M01201: 1, count of 1's: 1
+M01202: 2, count of 1's: 2
+M01203: 36, count of 1's: 36
+M01204: 25, count of 1's: 25
+M01208: 23, count of 1's: 23
+M01212: 0, count of 1's: 0
+M01214: 10, count of 1's: 10
+M01216: 19, count of 1's: 19
+M01217: 6, count of 1's: 6
+M01219: 174, count of 1's: 174
+M01220: 13, count of 1's: 13
+M01223: 28, count of 1's: 28
+M01231: 10, count of 1's: 10
+M01232: 2, count of 1's: 2
+M01234: 0, count of 1's: 0
+M01235: 1, count of 1's: 1
+M01236: 0, count of 1's: 0
+M01237: 3, count of 1's: 3
+M01239: 20, count of 1's: 20
+M01240: 18, count of 1's: 18
+M01241: 19, count of 1's: 19
+M01242: 17, count of 1's: 17
+M01243: 6, count of 1's: 6
+M01244: 0, count of 1's: 0
+M01245: 2, count of 1's: 2
+M01248: 3, count of 1's: 3
+M01249: 79, count of 1's: 79
+M01251: 6, count of 1's: 6
+M01255: 0, count of 1's: 0
+M01256: 11, count of 1's: 11
+M01257: 3, count of 1's: 3
+M01259: 250, count of 1's: 250
+M01260: 2, count of 1's: 2
+M01262: 0, count of 1's: 0
+M01263: 3, count of 1's: 3
+M01264: 6, count of 1's: 6
+M01265: 6, count of 1's: 6
+M01267: 45, count of 1's: 45
+M01268: 7, count of 1's: 7
+M01269: 29, count of 1's: 29
+M01272: 0, count of 1's: 0
+M01273: 0, count of 1's: 0
+M01282: 25, count of 1's: 25
+M01284: 0, count of 1's: 0
+M01298: 37, count of 1's: 37
+M01299: 13, count of 1's: 13
+M01301: 0, count of 1's: 0
+M01302: 13, count of 1's: 13
+M01303: 112, count of 1's: 112
+M01304: 3, count of 1's: 3
+M01305: 4, count of 1's: 4
+M01306: 9, count of 1's: 9
+M01308: 8, count of 1's: 8
+M01312: 2, count of 1's: 2
+M01313: 1, count of 1's: 1
+M01315: 0, count of 1's: 0
+M01316: 0, count of 1's: 0
+M01317: 0, count of 1's: 0
+M01318: 0, count of 1's: 0
+M01319: 0, count of 1's: 0
+M01320: 0, count of 1's: 0
+M01321: 1, count of 1's: 1
+M01323: 0, count of 1's: 0
+M01325: 1, count of 1's: 1
+M01327: 0, count of 1's: 0
+M01328: 1, count of 1's: 1
+M01332: 0, count of 1's: 0
+M01335: 0, count of 1's: 0
+M01339: 0, count of 1's: 0
+M01340: 0, count of 1's: 0
+M01343: 4, count of 1's: 4
+M01345: 0, count of 1's: 0
+M01346: 9, count of 1's: 9
+M01347: 0, count of 1's: 0
+M01348: 0, count of 1's: 0
+M01350: 0, count of 1's: 0
+M01351: 0, count of 1's: 0
+M01352: 0, count of 1's: 0
+M01353: 0, count of 1's: 0
+M01354: 0, count of 1's: 0
+M01356: 0, count of 1's: 0
+M01358: 0, count of 1's: 0
+M01359: 1, count of 1's: 1
+M01360: 2, count of 1's: 2
+M01361: 0, count of 1's: 0
+M01362: 0, count of 1's: 0
+M01366: 3, count of 1's: 3
+M01367: 0, count of 1's: 0
+M01368: 1, count of 1's: 1
+M01369: 0, count of 1's: 0
+M01370: 0, count of 1's: 0
+M01371: 0, count of 1's: 0
+M01372: 0, count of 1's: 0
+M01374: 1, count of 1's: 1
+M01375: 0, count of 1's: 0
+M01376: 0, count of 1's: 0
+M01377: 0, count of 1's: 0
+M01380: 0, count of 1's: 0
+M01383: 0, count of 1's: 0
+M01384: 0, count of 1's: 0
+M01386: 1, count of 1's: 1
+M01387: 2, count of 1's: 2
+M01391: 1, count of 1's: 1
+M01394: 0, count of 1's: 0
+M01396: 0, count of 1's: 0
+M01398: 1, count of 1's: 1
+M01399: 0, count of 1's: 0
+M01400: 0, count of 1's: 0
+M01402: 1, count of 1's: 1
+M01405: 0, count of 1's: 0
+M01406: 0, count of 1's: 0
+M01407: 2, count of 1's: 2
+M01408: 5, count of 1's: 5
+M01411: 7, count of 1's: 7
+M01412: 1, count of 1's: 1
+M01414: 1, count of 1's: 1
+M01424: 0, count of 1's: 0
+M01427: 0, count of 1's: 0
+M01428: 0, count of 1's: 0
+M01429: 1, count of 1's: 1
+M01431: 0, count of 1's: 0
+M01432: 0, count of 1's: 0
+M01433: 5, count of 1's: 5
+M01436: 2, count of 1's: 2
+M01437: 0, count of 1's: 0
+M01440: 2, count of 1's: 2
+M01443: 0, count of 1's: 0
+M01445: 0, count of 1's: 0
+M01446: 0, count of 1's: 0
+M01447: 0, count of 1's: 0
+M01449: 1, count of 1's: 1
+M01450: 1, count of 1's: 1
+M01451: 0, count of 1's: 0
+M01452: 0, count of 1's: 0
+M01453: 0, count of 1's: 0
+M01454: 0, count of 1's: 0
+M01457: 0, count of 1's: 0
+M01458: 0, count of 1's: 0
+M01459: 0, count of 1's: 0
+M01460: 0, count of 1's: 0
+M01461: 2, count of 1's: 2
+M01462: 2, count of 1's: 2
+M01463: 0, count of 1's: 0
+M01465: 4, count of 1's: 4
+M01466: 3, count of 1's: 3
+M01467: 0, count of 1's: 0
+M01470: 1, count of 1's: 1
+M01471: 0, count of 1's: 0
+M01473: 1, count of 1's: 1
+M01474: 0, count of 1's: 0
+M01477: 0, count of 1's: 0
+M01479: 1, count of 1's: 1
+M01483: 0, count of 1's: 0
+M01484: 2, count of 1's: 2
+M01485: 0, count of 1's: 0
+M01492: 30, count of 1's: 30
+M01494: 59, count of 1's: 59
+M01498: 1, count of 1's: 1
+M01500: 3, count of 1's: 3
+M01503: 75, count of 1's: 75
+M01504: 2, count of 1's: 2
+M01506: 1, count of 1's: 1
+M01508: 1, count of 1's: 1
+M01509: 86, count of 1's: 86
+M01510: 0, count of 1's: 0
+M01511: 32, count of 1's: 32
+M01512: 212, count of 1's: 212
+M01513: 51, count of 1's: 51
+M01515: 2, count of 1's: 2
+M01516: 39, count of 1's: 39
+M01517: 56, count of 1's: 56
+M01519: 19, count of 1's: 19
+M01521: 14, count of 1's: 14
+M01523: 15, count of 1's: 15
+M01525: 121, count of 1's: 121
+M01526: 5, count of 1's: 5
+M01527: 0, count of 1's: 0
+M01528: 1, count of 1's: 1
+M01529: 15, count of 1's: 15
+M01530: 62, count of 1's: 62
+M01532: 3, count of 1's: 3
+M01533: 0, count of 1's: 0
+M01534: 2, count of 1's: 2
+M01536: 7, count of 1's: 7
+M01537: 55, count of 1's: 55
+M01538: 43, count of 1's: 43
+M01539: 2, count of 1's: 2
+M01540: 5, count of 1's: 5
+M01541: 65, count of 1's: 65
+M01542: 66, count of 1's: 66
+M01544: 129, count of 1's: 129
+M01548: 12, count of 1's: 12
+M01549: 1, count of 1's: 1
+M01550: 133, count of 1's: 133
+M01551: 11, count of 1's: 11
+M01552: 0, count of 1's: 0
+M01554: 12, count of 1's: 12
+M01555: 0, count of 1's: 0
+M01556: 16, count of 1's: 16
+M01557: 4, count of 1's: 4
+M01558: 41, count of 1's: 41
+M01559: 37, count of 1's: 37
+M01560: 46, count of 1's: 46
+M01561: 13, count of 1's: 13
+M01563: 16, count of 1's: 16
+M01564: 29, count of 1's: 29
+M01565: 8, count of 1's: 8
+M01567: 5, count of 1's: 5
+M01568: 0, count of 1's: 0
+M01569: 0, count of 1's: 0
+M01571: 23, count of 1's: 23
+M01572: 35, count of 1's: 35
+M01573: 19, count of 1's: 19
+M01574: 0, count of 1's: 0
+M01576: 16, count of 1's: 16
+M01577: 55, count of 1's: 55
+M01578: 0, count of 1's: 0
+M01581: 18, count of 1's: 18
+M01582: 1, count of 1's: 1
+M01583: 8, count of 1's: 8
+M01584: 19, count of 1's: 19
+M01585: 16, count of 1's: 16
+M01586: 14, count of 1's: 14
+M01587: 2, count of 1's: 2
+M01589: 8, count of 1's: 8
+M01590: 0, count of 1's: 0
+M01591: 2, count of 1's: 2
+M01592: 10, count of 1's: 10
+M01593: 6, count of 1's: 6
+M01595: 5, count of 1's: 5
+M01597: 18, count of 1's: 18
+M01598: 1, count of 1's: 1
+M01607: 28, count of 1's: 28
+M01608: 25, count of 1's: 25
+M01609: 7, count of 1's: 7
+M01610: 65, count of 1's: 65
+M01611: 104, count of 1's: 104
+M01612: 17, count of 1's: 17
+M01613: 78, count of 1's: 78
+M01615: 5, count of 1's: 5
+M01617: 14, count of 1's: 14
+M01619: 22, count of 1's: 22
+M01620: 49, count of 1's: 49
+M01621: 14, count of 1's: 14
+M01625: 29, count of 1's: 29
+M01626: 7, count of 1's: 7
+M01628: 8, count of 1's: 8
+M01629: 117, count of 1's: 117
+M01634: 69, count of 1's: 69
+M01635: 74, count of 1's: 74
+M01636: 59, count of 1's: 59
+M01637: 0, count of 1's: 0
+M01639: 161, count of 1's: 161
+M01640: 3, count of 1's: 3
+M01641: 34, count of 1's: 34
+M01642: 23, count of 1's: 23
+M01643: 42, count of 1's: 42
+M01644: 3, count of 1's: 3
+M01646: 2, count of 1's: 2
+M01648: 27, count of 1's: 27
+M01649: 81, count of 1's: 81
+M01650: 3, count of 1's: 3
+M01651: 3, count of 1's: 3
+M01652: 7, count of 1's: 7
+M01653: 3, count of 1's: 3
+M01655: 15, count of 1's: 15
+M01656: 3, count of 1's: 3
+M01657: 16, count of 1's: 16
+M01658: 88, count of 1's: 88
+M01660: 170, count of 1's: 170
+M01662: 27, count of 1's: 27
+M01663: 74, count of 1's: 74
+M01666: 1, count of 1's: 1
+M01670: 1, count of 1's: 1
+M01672: 3, count of 1's: 3
+M01673: 63, count of 1's: 63
+M01675: 2, count of 1's: 2
+M01678: 8, count of 1's: 8
+M01681: 18, count of 1's: 18
+M01682: 4, count of 1's: 4
+M01683: 53, count of 1's: 53
+M01686: 3, count of 1's: 3
+M01687: 15, count of 1's: 15
+M01688: 25, count of 1's: 25
+M01691: 0, count of 1's: 0
+M01692: 2, count of 1's: 2
+M01695: 1, count of 1's: 1
+M01696: 0, count of 1's: 0
+M01699: 89, count of 1's: 89
+M01700: 198, count of 1's: 198
+M01701: 53, count of 1's: 53
+M01702: 0, count of 1's: 0
+M01703: 8, count of 1's: 8
+M01704: 4, count of 1's: 4
+M01705: 1, count of 1's: 1
+M01707: 12, count of 1's: 12
+M01708: 7, count of 1's: 7
+M01709: 54, count of 1's: 54
+M01711: 4, count of 1's: 4
+M01713: 3, count of 1's: 3
+M01714: 27, count of 1's: 27
+M01715: 1, count of 1's: 1
+M01716: 4, count of 1's: 4
+M01718: 19, count of 1's: 19
+M01721: 10, count of 1's: 10
+M01723: 0, count of 1's: 0
+M01724: 4, count of 1's: 4
+M01725: 0, count of 1's: 0
+M01728: 1, count of 1's: 1
+M01729: 1, count of 1's: 1
+M01731: 2, count of 1's: 2
+M01732: 1, count of 1's: 1
+M01733: 32, count of 1's: 32
+M01734: 8, count of 1's: 8
+M01735: 1, count of 1's: 1
+M01736: 61, count of 1's: 61
+M01737: 1, count of 1's: 1
+M01740: 3, count of 1's: 3
+M01742: 16, count of 1's: 16
+M01744: 0, count of 1's: 0
+M01745: 1, count of 1's: 1
+M01746: 0, count of 1's: 0
+M01747: 1, count of 1's: 1
+M01748: 7, count of 1's: 7
+M01749: 1, count of 1's: 1
+M01752: 10, count of 1's: 10
+M01759: 34, count of 1's: 34
+M01761: 0, count of 1's: 0
+M01768: 4, count of 1's: 4
+M01770: 57, count of 1's: 57
+M01772: 2, count of 1's: 2
+M01774: 0, count of 1's: 0
+M01778: 20, count of 1's: 20
+M01779: 7, count of 1's: 7
+M01782: 3, count of 1's: 3
+M01784: 5, count of 1's: 5
+M01785: 4, count of 1's: 4
+M01786: 3, count of 1's: 3
+M01788: 0, count of 1's: 0
+M01789: 0, count of 1's: 0
+M01790: 5, count of 1's: 5
+M01792: 9, count of 1's: 9
+M01793: 26, count of 1's: 26
+M01795: 4, count of 1's: 4
+M01796: 1, count of 1's: 1
+M01797: 1, count of 1's: 1
+M01799: 4, count of 1's: 4
+M01801: 2, count of 1's: 2
+M01802: 22, count of 1's: 22
+M01803: 22, count of 1's: 22
+M01804: 22, count of 1's: 22
+M01805: 0, count of 1's: 0
+M01806: 12, count of 1's: 12
+M01807: 2, count of 1's: 2
+M01809: 1, count of 1's: 1
+M01812: 30, count of 1's: 30
+M01814: 12, count of 1's: 12
+M01815: 10, count of 1's: 10
+M01816: 15, count of 1's: 15
+M01818: 42, count of 1's: 42
+M01819: 0, count of 1's: 0
+M01820: 22, count of 1's: 22
+M01823: 1, count of 1's: 1
+M01826: 1, count of 1's: 1
+M01827: 2, count of 1's: 2
+M01828: 1, count of 1's: 1
+M01830: 8, count of 1's: 8
+M01834: 2, count of 1's: 2
+M01837: 11, count of 1's: 11
+M01838: 83, count of 1's: 83
+M01839: 39, count of 1's: 39
+M01840: 28, count of 1's: 28
+M01841: 0, count of 1's: 0
+M01843: 70, count of 1's: 70
+M01844: 0, count of 1's: 0
+M01845: 1, count of 1's: 1
+M01848: 3, count of 1's: 3
+M01849: 0, count of 1's: 0
+M01850: 5, count of 1's: 5
+M01851: 3, count of 1's: 3
+M01852: 15, count of 1's: 15
+M01854: 5, count of 1's: 5
+M01857: 8, count of 1's: 8
+M01861: 30, count of 1's: 30
+M01862: 27, count of 1's: 27
+M01863: 25, count of 1's: 25
+M01864: 0, count of 1's: 0
+M01866: 1, count of 1's: 1
+M01868: 0, count of 1's: 0
+M01869: 0, count of 1's: 0
+M01871: 7, count of 1's: 7
+M01874: 6, count of 1's: 6
+M01875: 3, count of 1's: 3
+M01876: 84, count of 1's: 84
+M01881: 8, count of 1's: 8
+M01883: 4, count of 1's: 4
+M01884: 20, count of 1's: 20
+M01888: 0, count of 1's: 0
+M01889: 26, count of 1's: 26
+M01891: 7, count of 1's: 7
+M01892: 0, count of 1's: 0
+M01896: 1, count of 1's: 1
+M01899: 5, count of 1's: 5
+M01902: 7, count of 1's: 7
+M01903: 46, count of 1's: 46
+M01905: 2, count of 1's: 2
+M01906: 19, count of 1's: 19
+M01909: 22, count of 1's: 22
+M01910: 10, count of 1's: 10
+M01911: 13, count of 1's: 13
+M01913: 3, count of 1's: 3
+M01914: 28, count of 1's: 28
+M01916: 28, count of 1's: 28
+M01917: 21, count of 1's: 21
+M01919: 8, count of 1's: 8
+M01923: 5, count of 1's: 5
+M01924: 42, count of 1's: 42
+M01925: 385, count of 1's: 385
+M01927: 7, count of 1's: 7
+M01932: 9, count of 1's: 9
+M01933: 48, count of 1's: 48
+M01935: 30, count of 1's: 30
+M01936: 1, count of 1's: 1
+M01937: 1, count of 1's: 1
+M01938: 10, count of 1's: 10
+M01940: 51, count of 1's: 51
+M01941: 2, count of 1's: 2
+M01944: 15, count of 1's: 15
+M01945: 0, count of 1's: 0
+M01946: 4, count of 1's: 4
+M01947: 19, count of 1's: 19
+M01948: 36, count of 1's: 36
+M01949: 48, count of 1's: 48
+M01951: 78, count of 1's: 78
+M01953: 3, count of 1's: 3
+M01954: 33, count of 1's: 33
+M01955: 8, count of 1's: 8
+M01957: 19, count of 1's: 19
+M01958: 24, count of 1's: 24
+M01959: 15, count of 1's: 15
+M01960: 6, count of 1's: 6
+M01961: 116, count of 1's: 116
+M01962: 24, count of 1's: 24
+M01964: 0, count of 1's: 0
+M01966: 43, count of 1's: 43
+M01967: 3, count of 1's: 3
+M01968: 18, count of 1's: 18
+M01970: 16, count of 1's: 16
+M01971: 2, count of 1's: 2
+M01972: 58, count of 1's: 58
+M01974: 55, count of 1's: 55
+M01975: 13, count of 1's: 13
+M01976: 110, count of 1's: 110
+M01979: 76, count of 1's: 76
+M01980: 100, count of 1's: 100
+M01981: 163, count of 1's: 163
+M01982: 26, count of 1's: 26
+M01983: 161, count of 1's: 161
+M01985: 174, count of 1's: 174
+M01986: 105, count of 1's: 105
+M01987: 105, count of 1's: 105
+M01988: 127, count of 1's: 127
+M01989: 104, count of 1's: 104
+M01990: 72, count of 1's: 72
+M01992: 124, count of 1's: 124
+M02010: 1, count of 1's: 1
+M02011: 137, count of 1's: 137
+M02013: 0, count of 1's: 0
+M02014: 3, count of 1's: 3
+M02015: 16, count of 1's: 16
+M02016: 6, count of 1's: 6
+M02028: 1, count of 1's: 1
+M02032: 13, count of 1's: 13
+M02033: 0, count of 1's: 0
+M02036: 16, count of 1's: 16
+M02037: 23, count of 1's: 23
+M02038: 12, count of 1's: 12
+M02039: 10, count of 1's: 10
+M02040: 133, count of 1's: 133
+M02041: 3, count of 1's: 3
+M02042: 3, count of 1's: 3
+M02043: 4, count of 1's: 4
+MA0002.2: 1, count of 1's: 1
+MA0003.1: 16, count of 1's: 16
+MA0004.1: 90, count of 1's: 90
+MA0006.1: 123, count of 1's: 123
+MA0007.1: 1, count of 1's: 1
+MA0017.1: 7, count of 1's: 7
+MA0018.2: 22, count of 1's: 22
+MA0019.1: 1, count of 1's: 1
+MA0024.1: 23, count of 1's: 23
+MA0025.1: 0, count of 1's: 0
+MA0027.1: 10, count of 1's: 10
+MA0028.1: 62, count of 1's: 62
+MA0031.1: 4, count of 1's: 4
+MA0032.1: 2, count of 1's: 2
+MA0033.1: 4, count of 1's: 4
+MA0035.2: 0, count of 1's: 0
+MA0038.1: 0, count of 1's: 0
+MA0039.2: 6, count of 1's: 6
+MA0041.1: 12, count of 1's: 12
+MA0042.1: 2, count of 1's: 2
+MA0046.1: 0, count of 1's: 0
+MA0048.1: 25, count of 1's: 25
+MA0050.1: 8, count of 1's: 8
+MA0051.1: 7, count of 1's: 7
+MA0052.1: 0, count of 1's: 0
+MA0055.1: 13, count of 1's: 13
+MA0057.1: 13, count of 1's: 13
+MA0058.1: 7, count of 1's: 7
+MA0059.1: 46, count of 1's: 46
+MA0060.1: 6, count of 1's: 6
+MA0061.1: 4, count of 1's: 4
+MA0062.2: 1, count of 1's: 1
+MA0065.2: 2, count of 1's: 2
+MA0066.1: 3, count of 1's: 3
+MA0069.1: 9, count of 1's: 9
+MA0070.1: 0, count of 1's: 0
+MA0071.1: 0, count of 1's: 0
+MA0072.1: 0, count of 1's: 0
+MA0073.1: 2, count of 1's: 2
+MA0074.1: 2, count of 1's: 2
+MA0076.1: 98, count of 1's: 98
+MA0079.2: 30, count of 1's: 30
+MA0083.1: 3, count of 1's: 3
+MA0084.1: 1, count of 1's: 1
+MA0088.1: 7, count of 1's: 7
+MA0090.1: 4, count of 1's: 4
+MA0091.1: 0, count of 1's: 0
+MA0092.1: 0, count of 1's: 0
+MA0093.1: 77, count of 1's: 77
+MA0099.2: 105, count of 1's: 105
+MA0100.1: 50, count of 1's: 50
+MA0102.2: 1, count of 1's: 1
+MA0104.2: 15, count of 1's: 15
+MA0105.1: 16, count of 1's: 16
+MA0106.1: 8, count of 1's: 8
+MA0107.1: 7, count of 1's: 7
+MA0108.2: 22, count of 1's: 22
+MA0109.1: 2, count of 1's: 2
+MA0111.1: 4, count of 1's: 4
+MA0112.2: 3, count of 1's: 3
+MA0113.1: 0, count of 1's: 0
+MA0114.1: 3, count of 1's: 3
+MA0115.1: 11, count of 1's: 11
+MA0117.1: 14, count of 1's: 14
+MA0119.1: 9, count of 1's: 9
+MA0122.1: 1, count of 1's: 1
+MA0125.1: 2, count of 1's: 2
+MA0133.1: 28, count of 1's: 28
+MA0135.1: 0, count of 1's: 0
+MA0136.1: 7, count of 1's: 7
+MA0137.2: 3, count of 1's: 3
+MA0138.2: 6, count of 1's: 6
+MA0139.1: 248, count of 1's: 248
+MA0140.1: 3, count of 1's: 3
+MA0141.1: 7, count of 1's: 7
+MA0142.1: 2, count of 1's: 2
+MA0143.1: 0, count of 1's: 0
+MA0144.1: 1, count of 1's: 1
+MA0146.1: 17, count of 1's: 17
+MA0147.1: 17, count of 1's: 17
+MA0148.1: 1, count of 1's: 1
+MA0150.1: 6, count of 1's: 6
+MA0153.1: 0, count of 1's: 0
+MA0154.1: 15, count of 1's: 15
+MA0155.1: 17, count of 1's: 17
+MA0156.1: 33, count of 1's: 33
+MA0157.1: 7, count of 1's: 7
+MA0158.1: 2, count of 1's: 2
+MA0159.1: 2, count of 1's: 2
+MA0160.1: 12, count of 1's: 12
+MA0162.1: 134, count of 1's: 134
+MA0163.1: 1, count of 1's: 1
+MA0164.1: 3, count of 1's: 3
+MA0258.1: 4, count of 1's: 4
+PBM0001: 3, count of 1's: 3
+PBM0002: 3, count of 1's: 3
+PBM0005: 1, count of 1's: 1
+PBM0008: 0, count of 1's: 0
+PBM0009: 41, count of 1's: 41
+PBM0011: 0, count of 1's: 0
+PBM0012: 11, count of 1's: 11
+PBM0013: 25, count of 1's: 25
+PBM0014: 37, count of 1's: 37
+PBM0015: 1, count of 1's: 1
+PBM0016: 53, count of 1's: 53
+PBM0018: 15, count of 1's: 15
+PBM0019: 21, count of 1's: 21
+PBM0020: 47, count of 1's: 47
+PBM0022: 80, count of 1's: 80
+PBM0023: 128, count of 1's: 128
+PBM0026: 0, count of 1's: 0
+PBM0027: 33, count of 1's: 33
+PBM0028: 0, count of 1's: 0
+PBM0031: 13, count of 1's: 13
+PBM0033: 108, count of 1's: 108
+PBM0035: 23, count of 1's: 23
+PBM0036: 16, count of 1's: 16
+PBM0037: 5, count of 1's: 5
+PBM0038: 0, count of 1's: 0
+PBM0039: 2, count of 1's: 2
+PBM0040: 0, count of 1's: 0
+PBM0041: 10, count of 1's: 10
+PBM0042: 8, count of 1's: 8
+PBM0043: 1, count of 1's: 1
+PBM0044: 9, count of 1's: 9
+PBM0047: 4, count of 1's: 4
+PBM0049: 73, count of 1's: 73
+PBM0050: 0, count of 1's: 0
+PBM0054: 214, count of 1's: 214
+PBM0055: 0, count of 1's: 0
+PBM0056: 0, count of 1's: 0
+PBM0058: 2, count of 1's: 2
+PBM0059: 5, count of 1's: 5
+PBM0060: 23, count of 1's: 23
+PBM0062: 18, count of 1's: 18
+PBM0064: 2, count of 1's: 2
+PBM0066: 6, count of 1's: 6
+PBM0067: 0, count of 1's: 0
+PBM0068: 70, count of 1's: 70
+PBM0072: 16, count of 1's: 16
+PBM0073: 0, count of 1's: 0
+PBM0074: 0, count of 1's: 0
+PBM0077: 106, count of 1's: 106
+PBM0078: 15, count of 1's: 15
+PBM0079: 30, count of 1's: 30
+PBM0081: 22, count of 1's: 22
+PBM0082: 51, count of 1's: 51
+PBM0083: 33, count of 1's: 33
+PBM0084: 78, count of 1's: 78
+PBM0085: 52, count of 1's: 52
+PBM0087: 133, count of 1's: 133
+PBM0088: 0, count of 1's: 0
+PBM0089: 32, count of 1's: 32
+PBM0090: 142, count of 1's: 142
+PBM0091: 106, count of 1's: 106
+PBM0092: 2, count of 1's: 2
+PBM0093: 14, count of 1's: 14
+PBM0094: 72, count of 1's: 72
+PBM0095: 264, count of 1's: 264
+PBM0097: 128, count of 1's: 128
+PBM0099: 25, count of 1's: 25
+PBM0100: 35, count of 1's: 35
+PBM0101: 130, count of 1's: 130
+PBM0103: 149, count of 1's: 149
+PBM0104: 191, count of 1's: 191
+PBM0105: 115, count of 1's: 115
+PBM0106: 9, count of 1's: 9
+PBM0107: 125, count of 1's: 125
+PBM0110: 99, count of 1's: 99
+PBM0111: 27, count of 1's: 27
+PBM0113: 222, count of 1's: 222
+PBM0114: 162, count of 1's: 162
+PBM0115: 25, count of 1's: 25
+PBM0116: 143, count of 1's: 143
+PBM0117: 133, count of 1's: 133
+PBM0118: 152, count of 1's: 152
+PBM0119: 38, count of 1's: 38
+PBM0120: 139, count of 1's: 139
+PBM0121: 136, count of 1's: 136
+PBM0123: 3, count of 1's: 3
+PBM0124: 83, count of 1's: 83
+PBM0125: 13, count of 1's: 13
+PBM0126: 151, count of 1's: 151
+PBM0127: 153, count of 1's: 153
+PBM0128: 36, count of 1's: 36
+PBM0129: 26, count of 1's: 26
+PBM0130: 115, count of 1's: 115
+PBM0131: 20, count of 1's: 20
+PBM0132: 159, count of 1's: 159
+PBM0133: 17, count of 1's: 17
+PBM0134: 18, count of 1's: 18
+PBM0135: 159, count of 1's: 159
+PBM0136: 34, count of 1's: 34
+PBM0137: 32, count of 1's: 32
+PBM0138: 7, count of 1's: 7
+PBM0139: 2, count of 1's: 2
+PBM0140: 27, count of 1's: 27
+PBM0141: 3, count of 1's: 3
+PBM0142: 6, count of 1's: 6
+PBM0143: 3, count of 1's: 3
+PBM0144: 4, count of 1's: 4
+PBM0145: 36, count of 1's: 36
+PBM0146: 0, count of 1's: 0
+PBM0147: 2, count of 1's: 2
+PBM0148: 7, count of 1's: 7
+PBM0149: 1, count of 1's: 1
+PBM0150: 2, count of 1's: 2
+PBM0152: 0, count of 1's: 0
+PBM0156: 27, count of 1's: 27
+PBM0157: 2, count of 1's: 2
+PBM0158: 2, count of 1's: 2
+PBM0159: 4, count of 1's: 4
+PBM0160: 0, count of 1's: 0
+PBM0161: 0, count of 1's: 0
+PBM0162: 36, count of 1's: 36
+PBM0163: 3, count of 1's: 3
+PBM0164: 2, count of 1's: 2
+PBM0166: 1, count of 1's: 1
+PBM0167: 15, count of 1's: 15
+PBM0171: 35, count of 1's: 35
+PBM0172: 35, count of 1's: 35
+PBM0173: 6, count of 1's: 6
+PBM0174: 11, count of 1's: 11
+PBM0175: 11, count of 1's: 11
+PBM0176: 37, count of 1's: 37
+PBM0181: 81, count of 1's: 81
+PBM0182: 3, count of 1's: 3
+PBM0183: 4, count of 1's: 4
+PBM0184: 1, count of 1's: 1
+PBM0185: 2, count of 1's: 2
+PBM0186: 11, count of 1's: 11
+PBM0187: 1, count of 1's: 1
+PBM0188: 111, count of 1's: 111
+PBM0189: 2, count of 1's: 2
+PBM0191: 37, count of 1's: 37
+PBM0192: 1, count of 1's: 1
+PBM0195: 11, count of 1's: 11
+PBM0196: 1, count of 1's: 1
+PBM0197: 0, count of 1's: 0
+PBM0198: 81, count of 1's: 81
+PBM0199: 0, count of 1's: 0
+PBM0200: 42, count of 1's: 42
+PBM0201: 41, count of 1's: 41
+PBM0202: 0, count of 1's: 0
+PBM0203: 447, count of 1's: 447
+PBM0205: 4, count of 1's: 4
+PBM0206: 8, count of 1's: 8
+PBM0207: 0, count of 1's: 0
+Making ref allele matrix
+Making alt allele matrix
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=0/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=1/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=2/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=3/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=4/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=5/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=6/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=7/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=8/model(50+10)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(0+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(1+0)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(10+5)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(200+40)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(5+3)_replicate_9.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_0.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_1.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_2.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_3.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_4.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_5.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_6.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_7.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_8.h5
+/data/projects/punim0614/andy/circuitSNP/models/models_seed=9/model(50+10)_replicate_9.h5

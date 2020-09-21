@@ -1,0 +1,4 @@
+.DS_Store
+data/train_data_mat.csv
+data/validation/*.csv
+data/validation/rasqual/
